@@ -1,0 +1,5 @@
+2026-11-20 17:38:21 [INFO] django.utils.autoreload (autoreload.py:686): Watching for file changes with StatReloader
+2026-11-20 17:38:36 [WARNING] project_dashboard (views.py:338): Failed login attempt: unknown identifier 'admin' from IP 127.0.0.1
+2026-11-20 17:38:37 [WARNING] project_dashboard (views.py:338): Failed login attempt: unknown identifier 'admin' from IP 127.0.0.1
+2026-11-20 17:39:13 [WARNING] project_dashboard (views.py:338): Failed login attempt: unknown identifier 'admin' from IP 127.0.0.1
+2026-11-20 17:43:26 [INFO] project_dashboard (views.py:351): User 'admin' (Role: ADMIN) logged in successfully from IP 127.0.0.1

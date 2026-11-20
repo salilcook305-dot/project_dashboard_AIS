@@ -1,0 +1,15 @@
+node_modules
+**/node_modules
+.git
+.gitignore
+.env
+.vscode
+__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+database/db.sqlite3
+*.zip
+*.log
+.DS_Store
+Thumbs.db

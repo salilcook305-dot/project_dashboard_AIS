@@ -1,0 +1,31 @@
+# Environment variables
+.env
+*.env
+
+# SQLite local databases
+*.sqlite3
+database/*.sqlite3
+
+# Python bytecode & cache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.pytest_cache/
+
+# Node & package managers
+node_modules/
+frontend/node_modules/
+.pnpm-store/
+
+# Build artifacts
+frontend/dist/
+backend/staticfiles/
+*.zip
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json

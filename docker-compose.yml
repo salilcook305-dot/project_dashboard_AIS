@@ -1,0 +1,61 @@
+services:
+  # PostgreSQL Database Container
+  db:
+    image: postgres:16-alpine
+    container_name: project_dashboard_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-project_dashboard}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-project_dashboard}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # Unified Django + React Application Container
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: project_dashboard_web
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      USE_POSTGRES: "true"
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: ${POSTGRES_DB:-project_dashboard}
+      DB_USER: ${POSTGRES_USER:-postgres}
+      DB_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      DEBUG: ${DEBUG:-False}
+      SECRET_KEY: ${SECRET_KEY:-ai-samrat-enterprise-secure-key-2026-prod}
+      ALLOWED_HOSTS: ${ALLOWED_HOSTS:-localhost,127.0.0.1,web,0.0.0.0}
+      CSRF_TRUSTED_ORIGINS: ${CSRF_TRUSTED_ORIGINS:-http://localhost:8000,http://127.0.0.1:8000,http://0.0.0.0:8000}
+      ADMIN_USERNAME: ${ADMIN_USERNAME:-admin}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-Password123!}
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-admin@aisamrat.com}
+      SEED_DEMO_DATA: ${SEED_DEMO_DATA:-false}
+    ports:
+      - "8000:8000"
+    volumes:
+      - uploads_data:/app/uploads
+      - static_data:/app/backend/staticfiles
+      - logs_data:/app/logs
+
+volumes:
+  postgres_data:
+    name: project_dashboard_postgres_data
+  uploads_data:
+    name: project_dashboard_uploads_data
+  static_data:
+    name: project_dashboard_static_data
+  logs_data:
+    name: project_dashboard_logs_data

@@ -1,0 +1,6071 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "01mz7o1tzrvnbijftes360n5jubn3xaw",
+  "fields": {
+    "session_data": ".eJxVjDEOwjAMRe-SGUUxIQEzsnOGyI4dUkCp1LQT4u5QqQOs_733XybRMte0dJ3SIOZsIJrd78iUH9pWIndqt9Hmsc3TwHZV7Ea7vY6iz8vm_h1U6vVbs2jm4NFzPPkgHFmzC8yA4LT4ApGyAxVRIkSSgAUAD4JHxX1QMe8PPMM5WQ:1xTlQm:Q4aoP_BR4tks43eWeP868r_OrAi4m0JHb7X-eW4v0Mk",
+    "expire_date": "2026-12-02T19:34:56.367Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "07pvwewnom3ufxciqh70i8evp4yxdu38",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEFOsC4dO83NAMzSNXQpI-V8d-1SRe6veec-1IDbWsdtkXmYWR1Vh7U6XdMlB_SdsJ3ardJ56mt85j0ruiDLvo6sTwvh_t3UGmp3xpCMaXLTmyKyac-Fo8cYkTMxjGyARYiBGeh64sVhGA7ApEEbByyen8ADy44JA:1xTkzh:5ZwBmudiiNwn47xqeU83MXEA0vgM1axC5GBij9EgLSs",
+    "expire_date": "2026-12-02T19:06:57.292Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0fe6syyqh8u76afcaz34e7aq5ymrocnx",
+  "fields": {
+    "session_data": "e30:1xSpIv:XYaitfBy-P2P5mbRUuKOlX1eIIiW5eXdHDRCuX_HDR8",
+    "expire_date": "2026-11-30T05:30:57.922Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0kmis0bo8dkdhw5zqerzttw0nnn8c4ph",
+  "fields": {
+    "session_data": ".eJx1kEFuwyAQRe_COrLqkGDIqoqUZc5gfcNgkxqwMOkmyt0LrVu1iy4_7_Nm4MF63PPU31dKvTPsxHjLdr8PB-g3CpWYG8IYGx1DTm5oaqXZ6Npco6H5vHX_CCasU7l9VHslRSu5sNAdyLxAtvzQHow8crlXHMIMnRwEcavR2VZLKCuEVuCWW1WkVcdOD1b35O1XDvBU7J7GCaWyxesWycPN3_gVboVPyOUJvsAU59pdUryRzr1HwFgG7JihBSl7CrngSxhdIEoujAXhHRnlp4LLDvNaR13Yc8eWmDI-J_1Y_tE_PwALI3s0:1xSpOs:ASDU9q5rsSwr1UOM_xHQG8OpLN7d3tSnU31-tTyuVD8",
+    "expire_date": "2026-11-30T05:37:06.198Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0zl213yn2w73tyje13fq64wspxlhfnpv",
+  "fields": {
+    "session_data": ".eJxVkMtqwzAQRX8laB1Moii2nFUp3RYK-QBzLY9jJXoYWQ6EkH-v5BraLufeo6ORnqzBHIdmnig0umMnxtn2b9ZC3cjlorvCXXyhvItBt0VGirWdik_fkXlf2X-CAdOQTqu679GDH6AOZS0F5yWJci_2HUklZFsLTnWrKrkTR1Q95BEcEru-RFklOkmzjp2eLK_Jf0YHS0lu4XBJd41BP5DINf7K4-Y8INickoU2KV6oYlriN-gJNiCmd9nEBG9oQfyVVGxWcSo6GhGiJRcXse9mFTcfZPSdwiP1uCMifaHTUcNMGTqz15aNPkSY3x3Z6xsgRHyZ:1xS1OO:t-ecZ1jxlTx1VzAKKDoyU_BRcCK0VGTp6a9B92Ba8xc",
+    "expire_date": "2026-11-28T00:13:16.680Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2mor1928mv56oll1m63ipwkf2lfxp7rg",
+  "fields": {
+    "session_data": "e30:1xSpNG:6X9asikYz21Ix259vnapVVZ2cCXXTvMGalf8pC9J5yI",
+    "expire_date": "2026-11-30T05:35:26.044Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2pdxnjctlkmf3npi5njiav85ud66g5ec",
+  "fields": {
+    "session_data": ".eJxVjE0OgyAYBe_CuiGKyE-X3XsG8oCPYttAIrpqevdq4qLdvpl5b-awrdltjRY3R3Zlgl1-N4_wpHKA-EC5Vx5qWZfZ80PhJ218qpFet9P9O8hoea-DTQkJYkAYlDVSCEVS9bKPZII03kpB1gdtOjlCJ5gRAgZdUlB6t9nnC_E2N9s:1xRYTa:bxRcRxjpFqWJyu9_UyO3IYzP1tTkm-XindxjA3hqZxg",
+    "expire_date": "2026-11-26T17:20:42.388Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "3zjehs1yqoevq3qc885j8xiab0g10c4u",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRamy:JXX8NNjnqyYW__HT_x-3n09HLGEe4u1PjDzSIiM9c_w",
+    "expire_date": "2026-11-26T19:48:52.715Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4ou2scpb6iri1scogmwepf189fk3un2f",
+  "fields": {
+    "session_data": ".eJxtkDtrxDAQhP9KUH0YPyX5qhBImSbFtWbt3dhK9DCyzhCO--9ZERc5SCEQM9_OrHQTA1zTMlw3ioNBcRZV04vTX3WE6Yt8tvAT_ByKKfgUzVhkpDjcrXgLSPblYB8CFtgWnu7Kvseqk6A7JXGsqa-xpPZD65Gw5SN1jVpNk66w7EqUnWqbRirVa4mggENznDjfRF6U9_wVPDji-BgW8MVO0WXyEN-z-HQ5RHJg7CP6DGYDFyHxqxwjMdg8h7STDSu3nfi-QkyOfGLj1c_GE0XjZ7ZghwT8b94kA3bLhRdxP4k1xAS5idxqwzfRf8n3H0MTff0:1xStJt:g_VlFaY0LeZ4ySOmjXSoFJv2aAS_PLDl9PMnfq_j-Y4",
+    "expire_date": "2026-11-30T09:48:13.871Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5ouuqrk742c799cx4x9px8vgqzwlq8oi",
+  "fields": {
+    "session_data": "eyJyb2xlIjoiZGV2ZWxvcGVyIn0:1xStC3:TLWlTjZyl7dwOU7T96DQNO3FWXdDq8U2iYe6xf-3MFc",
+    "expire_date": "2026-11-30T09:40:07.748Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "6h5gan3p1lao027kyp1jtxf094oaqstd",
+  "fields": {
+    "session_data": ".eJxtkL1qxDAQhF8lqDbGlmWfuCoEUqZJca1ZSWtbOf0YWWcIx717VsRFDtKJmW9ndnVnI9zyMt42TKM17MzaTrLqr6pAXzEUy3xBmGOtY8jJqrog9eFu9Uc06N4O9ilggW2haT5NLfYStFBKKDH0OPUKpGkM77lp1TBozpvTMHRGQ9PxRrSoYVKtnKQQp45CSxw731lZlPb8FQJ4pPgUFwj1jskDkYf4WcSXyyGiB-ue0VewG_gEma7yhKToypzBHV1cqa2i9wopewyZjPcw24CYbJjJgh0y0L8Fmy24rRRe2KNia0wZShP61cVvxP-SHz_JGn57:1xStJ2:Vb1KAk4-5w2bDbMQ0fypcu33QjcTtMUhkrnUxXSHprU",
+    "expire_date": "2026-11-30T09:47:20.366Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "75s39mnknp64q8b3dkwmxtoi8sml0qiv",
+  "fields": {
+    "session_data": ".eJxVkM1ugzAQhF8l8hkhfgQ4OTWVesypD4DG7Dq4xSYyJqoU5d1rp7RKjzsz--3PTfRYw9ivC_vekDiIUmTPmsLwyS4Z9AF3nvNhdsEbladIvrlLfpqJp9ct-w8wYhljN6NsGXpfF6RJFxLUVEpBy7ptK-aSGt1JqkpuCoCkQlfpoanrupF6D9lFaMKJw02kNcuf0sFyhIOscTGxle-wHmF33FS2MNNv6gVmedjxEBtNP0_PBOILfLDsQhTfvnhYg7ny7gSHMz_kTOCKgPgtZ4LBtKSBR3HPxGX2AX-DxP0bi_l0Bw:1xS1Qh:vHXnirreZtAlpDpj-IJPlRxIcNs_oxvxwuGzJ449Ma0",
+    "expire_date": "2026-11-28T00:15:39.276Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7uhjehue342x9baxugom621pdq0oqafx",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRcaE:nE3M_zwCgrxVYOGRIUAPGB03e9PkO8zKeH9Ecp3tlvM",
+    "expire_date": "2026-11-26T21:43:50.264Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "94w7plho3fvr66pg6taylwdoehovq4p4",
+  "fields": {
+    "session_data": ".eJxtkEtuwzAMRO_CtWH4E9lWVm2BroqewaAs2lajjyEpAYogd6-EapEC3ZGc4RtKd5jxGvf5GsjPSsIZBgbV81DgciGbFfmFdnP14mz0StTZUhc11J9Okn4r3j-AHcOettm4tmuz9NSJSQziNK0Dl-M0cb60veSyZZIQOes71pzWjjgbuwYZkWCy7XmGZhyc75DvHNhvb9FQopM5ZrzkpArK6LW0ZFDpZ8sLqoDGY0xPMcngnc5-STfS7kgRVaoP9NGQjUl4t5uyRF7ZLUl4w4jpr6yKCnXIQR_wqOBwPmLJ0e6b6D_y4wfr4Ho1:1xSpP2:9HRDNwFLNt143OOIbw1Scfb79e9LFWcgmPXJ7-CXLeE",
+    "expire_date": "2026-11-30T05:37:16.525Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9rez3u2ovx4ybipq0kdarlhwqnge21m5",
+  "fields": {
+    "session_data": "e30:1xSpIu:2hv7WnUri5UHGn0OhBZwTAVePyuf2uTNM8RZcfTimEQ",
+    "expire_date": "2026-11-30T05:30:56.223Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9y2uaw51n8tgbj7bpqvu1x5pqcv2qz2q",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRckI:ZvOn6ImBZZ3jSr2_6LcH03dcMQh0YIlDgEzk7-ebU4Y",
+    "expire_date": "2026-11-26T21:54:14.071Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "aajfaap5pkr0b08vikwl4xn2x8jhdr5p",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFAebp07zeQAWakaiAp7cr479qkC93ec859sQjbWuM2cIlzYWcmPTv9jgnyA9tOyh3arfPc27rMie8KP-jg117weTncv4MKo35rdNJDsE4ZJSbIhYIPkgCDDLpIXQSlSUyOslKUyKIFclrYBMaaLJVi7w8GpzgK:1xTlQL:ngs3zpVa0oJf9l8xRQzHdBr0VNcuW3UIMrdUAxx-gN4",
+    "expire_date": "2026-12-02T19:34:29.132Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "aba6pgqeqfzoqqgnuql7ly4u0h1rsk79",
+  "fields": {
+    "session_data": ".eJxVkM1ugzAQhF8l8hkhfgQ4OTWVesypD4DG7Dq4xSYyJqoU5d1rp7RKjzsz--3PTfRYw9ivC_vekDiIUmTPmsLwyS4Z9AF3nvNhdsEbladIvrlLfpqJp9ct-w8wYhljN6NsGXpfF6RJFxLUVEpBy7ptK-aSGt1JqkpuCoCkQlfpoanrupF6D9lFaMKJw02kNcuf0sFyhIOscTGxle-wHmF33FS2MNNv6gVmedjxEBtNP0_PBOILfLDsQhTfvnhYg7ny7gSHMz_kTOCKgPgtZ4LBtKSBR3HPxGX2AX-DxP0bi_l0Bw:1xS1V8:PmgzGhcuT-nk8fmDcr_ZqUXUvztlXo-jQYRzYApOE6s",
+    "expire_date": "2026-11-28T00:20:14.878Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "awa8jykpjd10nrc4639sgdi4uws2imsw",
+  "fields": {
+    "session_data": ".eJx1ULtuwzAQ-5VAs2FI8EN1pqJolwKd8gEGbR1sJZZkyEqXIP_eU2v0MXTTkTySp5vocU1zf90o9taIo1CqFsVvdMB4IZ8pc4afQjkGn6Idyiwpd3Yr34Kh5WnX_jGYsc283UoY2VTyoVVNXWGs0LWD6uqO5NBgqIzU3ajrFmYkzQ8J3ZAxTUVGK60km2Y7cbyJXJR7fgEejnI5ohUXFu3z8-d8OB1eGSMHu3yLHmE3uIjEpzhmY1jyxhrDmcbUO3hMHFSwfEVMjnxi-sVP1hNF6yem8I4E_jJvk8Wy5cCTuBdiDTEhR_24_GN__wCbkn1Q:1xStLT:1bLUsvYqgLjFaUtDhWu56k1sIMLsGu_o-1NR-8DLCbE",
+    "expire_date": "2026-11-30T09:49:51.561Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "b4ibssrdrfe1i77ngoi43qi3yslc0ifb",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlleZ-MPJX3OYO3aCw6gRIqTCnF3iJQC2jcz76USbWtNW5MljUWdFfTq9Dsy5YdMOyl3mm6zzvO0LiPrXdEHbXqYizwvh_t3UKnVb935qxFiMdFgtMgWI8cOILtsIXok7xwxILkiuWfh0KENBsAYDihBvT_1Gzdi:1xTlue:9Y4jRnZ-N-l7wgCMfRAxZZnkdDlxeNMTNSxWHhddHro",
+    "expire_date": "2026-12-02T20:05:48.831Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "bgh2xs8tt9qkajyu11256v1z4uxam08o",
+  "fields": {
+    "session_data": ".eJxtkM1qwzAQhF-l6GyMbTnCzqkt9FjIG5ixtLbV6MfIiqGEvHsl6kMDvYmZb2d2dWcDbnEZbhuFQSt2ZnVbseKvOkJeyWVLfcHNvpTexaDHMiPl4W7lp1dk3g_2KWDBtqRp9OjQqKprpZxk1_Y4iUkKyUko3om2Ri-qSXJOdUOkepK8HevmRBCq6qVMoTmOne8sL5r2_BUcLOV4BOzlikgmkYf4lsWXyyGShTbP6Cv0BhsQ01U2IcGbPKdoJ-PX1Fak94oQLbmYjA83a0cUtJuThR0R6d-cjhpmy4UX9ijY6kNEbiK7Gv9N9F_y4wclA37M:1xStLV:As6V5kNb15gIbo_C1CNZkjq3bm-Tn52udY49Gvh01dE",
+    "expire_date": "2026-11-30T09:49:53.898Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "bkx4ke3sbzsr28wfj1y121lioxq7r1wl",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRaWh:8Q5ZyTglPkmu6oGxZlKZ7mYE5oaia9CS1ztwud2B5Tc",
+    "expire_date": "2026-11-26T19:32:03.168Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "bnpw1jpnsluuwtz29ywe2gayqnaqij66",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRaym:AmRSk52TG9nzVuQZzK46XO8JfubcQZdmNdluwBOPdCM",
+    "expire_date": "2026-11-26T20:01:04.272Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "chp8k0yhpmm9uygudtvbuzwbxx1dvh9y",
+  "fields": {
+    "session_data": "e30:1xSoyN:_46H61snMGZc3xT9ZygDRSeo2bb-qkPEqJ1QHVrK1wM",
+    "expire_date": "2026-11-30T05:09:43.204Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "clf2e4ibpdbqrxfq5yd70fi27q91kp19",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRM4d:5Dsvw5MNKs8Us7b-7rGVDMC97Ns6lVSIwmpyCJsGKAY",
+    "expire_date": "2026-11-26T04:06:07.167Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "djzz19j24imahq5lkhinsi5pg31d8zhz",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEFOsC4dO83NAMzSNXQpI-V8d-1SRe6veec-1IDbWsdtkXmYWR1Vh7U6XdMlB_SdsJ3ardJ56mt85j0ruiDLvo6sTwvh_t3UGmp3xpCMaXLTmyKyac-Fo8cYkTMxjGyARYiBGeh64sVhGA7ApEEbByyen8ADy44JA:1xTn41:rx7AeEfT40zNEWg846bdLVJKetnrNgmh9SQojjPsrFo",
+    "expire_date": "2026-12-02T21:19:33.992Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "e6fdl8ck30e6ic5lhnrq2vs4lngrc9ji",
+  "fields": {
+    "session_data": "eyJyb2xlIjoibWFuYWdlciJ9:1xStBy:f-LT76Rlg5AJAfYGCU-kliNoPUte_iBg5qjkxOKfd9A",
+    "expire_date": "2026-11-30T09:40:02.615Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "g3ixukp670va0clo98d6atg7pa2ypkud",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGllr-bOYkp4zWGvvCgeQLcVJhbg7iZQCutG8N_NWidalpnXInCZWF2WMU6ffNlN5StsRP6jduy69LfOU9a7ogw596yyv6-H-HVQadVsHIAZv4RyMd5aKpRiyiS4KZE_ZMmAs6AJxEdwCEHph9lYYDRpQny8Wdjf3:1xTn8e:X9ZeyN5Qq_ItgSqWoHmrc5c1YkZPmkIteSMq6qHDz7o",
+    "expire_date": "2026-12-02T21:24:20.541Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gg96m9jfembzp3fr52thni2yxsf5drlu",
+  "fields": {
+    "session_data": "e30:1xSpIv:XYaitfBy-P2P5mbRUuKOlX1eIIiW5eXdHDRCuX_HDR8",
+    "expire_date": "2026-11-30T05:30:57.050Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hhzwhjx08zh0dojdphdt81xj8ilmt1pm",
+  "fields": {
+    "session_data": ".eJxtkM1qwzAQhF-l6GyMrUR2nFNb6DGQNzAraW2r1R-yYigh794V9aGB3sTMtzO7urMRbnkZbyum0Wh2Zu2xYdVfVYL6Ql8s_Ql-DrUKPicj64LUu7vWl6DRvu_sU8AC60LT6iSaFpVE0YDoD6Lr9SRaLQfFZScnNfUwnETX8X6Y5AG6QSBBvNWcN1w0PYWWOHa-s7Io7fkreHBI8QAJtjpCRkvkLr4V8eW6i-jA2Gf0FcwKLkGmqxwhKdgyp3FDGyK1VfSOkLJDn8n48LPxiMn4mSzYIAP9mzfZgF1L4ZU9KhZDylCa0EUbvhH_S378AAYbfYI:1xStLY:Ef5aMu950EJdHMc-D73ZFVTulpl23jU7zunpAxU6XKg",
+    "expire_date": "2026-11-30T09:49:56.622Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "if8gog446fslqlsilqjvfk3zlegyt5ws",
+  "fields": {
+    "session_data": ".eJxtkM1uwjAQhF-lyhlFDYbgcCoVUS9NqTj0am3sTWIa28jZ0APi3WtD-if1OPPNjnd9TgSM1IlxQC-0StYJy5LZb7MG-Y42EnUA27pUOkte12mMpBMd0sop7B-n7J-CDoYuTC-LecHzjLO8AbkCVPfAM7bIFoovGZ8XDHJVr3idI2skrJpMciiaPJcFsIY1RSiNdcn6nMQ9WXbTFgyGdoNtByEyyWqSaED3X_gB9ADGA4UTTIDe9TF79O6AkoQBC214IAD4EBOsNi-bp3IfTIVH8GTQUrBL22qL6LVtAzq4WpCm68Drre2u-m6DExCEz7WaNPRDLC2DPRDQGNXurdw_7zbbchvDkvQJhXRjfIexyyw5Ok9wPeJnwf83v3wCaWeYXw:1xTo63:uv9B1bSUOViXWuuNIGy6zuBxQHm6fwRy1VkBapXovSc",
+    "expire_date": "2026-12-02T22:25:43.015Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ipsl0r9qq089i160b4931bkd74rat5be",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRaap:Jfp9Mg0YE32YmlfYapSX7ENNJ0Dv3m0nTRGh4zkI_5Q",
+    "expire_date": "2026-11-26T19:36:19.902Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "iufour3kafmlkzue6wfjjddfx1szq346",
+  "fields": {
+    "session_data": "e30:1xSpNH:rFY6OM7pOPFmhyanA2yldkF8MnCmhKgTb76EmQSX60Y",
+    "expire_date": "2026-11-30T05:35:27.731Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jip7ahzsa0f5wi5xnj8za5eszpwmrh0n",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRaY5:YNq3--ErEeSKbL8pGiHvIbr0tXcc2IAY9h_9xDVTk50",
+    "expire_date": "2026-11-26T19:33:29.835Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jsgqpx7snvakgiqhufl5fd86195isiau",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRaZ5:_VZAPmaRwQYT78xVlp5YJjr9t0kMXCx9NkAmuJYNxyc",
+    "expire_date": "2026-11-26T19:34:31.999Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jxmgugteo25f65y9hn00czmn25xe6et7",
+  "fields": {
+    "session_data": ".eJx1ULtuwzAQ-5VAs2FI8EN1pqJolwKd8gEGbR1sJZZkyEqXIP_eU2v0MXTTkTySp5vocU1zf90o9taIo1CqFsVvdMB4IZ8pc4afQjkGn6Idyiwpd3Yr34Kh5WnX_jGYsc283UoY2VTyoVVNXWGs0LWD6uqO5NBgqIzU3ajrFmYkzQ8J3ZAxTUVGK60km2Y7cbyJXJR7fgEejnI5ohUXFu3z8-d8OB1eGSMHu3yLHmE3uIjEpzhmY1jyxhrDmcbUO3hMHFSwfEVMjnxi-sVP1hNF6yem8I4E_jJvk8Wy5cCTuBdiDTEhR_24_GN__wCbkn1Q:1xStJT:mMiTgffBv0zahOR8IirCNaeil42i_8AB0uOXyKZ_8PA",
+    "expire_date": "2026-11-30T09:47:47.097Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ktdl31zie1tbkxnpd076q1o4xsfkoehj",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlleZ-MPJX3OYO3aCw6gRIqTCnF3iJQC2jcz76USbWtNW5MljUWdFfTq9Dsy5YdMOyl3mm6zzvO0LiPrXdEHbXqYizwvh_t3UKnVb935qxFiMdFgtMgWI8cOILtsIXok7xwxILkiuWfh0KENBsAYDihBvT_1Gzdi:1xTlhA:9S7CraHmV3e3vEBBtRxlt5j8WljiaVEQL2mzgKDzz3g",
+    "expire_date": "2026-12-02T19:51:52.488Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "l5jift5a10390ayx8jgk2ft944ebbuoy",
+  "fields": {
+    "session_data": ".eJxtkM1uwjAQhF-l8hlFDYaQcCoVUS9NqTj0am3sTWIa28jZ0APi3WtD-if1OPPNjnd9ZgJG6sQ4oBdasTXjKZv9NmuQ72gjUQewrUuks-R1ncRIMtEhqZzC_nHK_inoYOjC9LKYF3mW5jxrQK4A1T3kKV-kC5UveT4vOGSqXuV1hryRsGpSmUPRZJksgDe8KUJprGPrM4t78vSmLRgM7QbbDkJkktUk0YDuv_AD6AGMBwonmAC962P26N0BJQkDFtrwQADwISZYbV42T-U-mAqP4MmgpWCXttUW0WvbBnRwtSBN14HXW9td9d0GJyAIn2s1aeiHWFoGeyCgMardW7l_3m225TaGJekTCunG-A6fX2bs6DzB9YifBf_f_PIJaTiYXg:1xTRZk:kcP7xUJ-E4pgt2Toocbuk7pPalizt3uyxeXpya5wGgc",
+    "expire_date": "2026-12-01T22:22:52.794Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "le776lqhdon4ypbdsd09jv41ilewbzsc",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFAebp07zeQAWakaiAp7cr479qkC93ec859sQjbWuM2cIlzYWcmPTv9jgnyA9tOyh3arfPc27rMie8KP-jg117weTncv4MKo35rdNJDsE4ZJSbIhYIPkgCDDLpIXQSlSUyOslKUyKIFclrYBMaaLJVi7w8GpzgK:1xTmtx:DSEB0i9IyZScrZxDWJP8y6_fL-VwMYpAMEHv2fnZVr0",
+    "expire_date": "2026-12-02T21:09:09.872Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lvacvqit1iulwf1kd0uhl72inobsntpa",
+  "fields": {
+    "session_data": "e30:1xSpNH:rFY6OM7pOPFmhyanA2yldkF8MnCmhKgTb76EmQSX60Y",
+    "expire_date": "2026-11-30T05:35:27.804Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lx1gwaj14jl91ywdxrrz6m9k0h7yg1nf",
+  "fields": {
+    "session_data": "e30:1xSpNF:fm_SCYUvlYGOvW4EnjnpVPIOwPMhdt9SyTnA-x350Sc",
+    "expire_date": "2026-11-30T05:35:25.156Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mbk96fhq3f6mku1tl2rh3f62e67ufq2t",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRaWV:lUlS58JI09vh_OCGRJfIMcGg41-ENbr1WOL9R4QMzt4",
+    "expire_date": "2026-11-26T19:31:51.568Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "msxaw929zgrnx0eu4s1b8uhx3zwwz2ll",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEzIi-X7vsNDQODVA0kpV0Z_92QdKHbe865bzGHfSvz3nmdlySuAsXpd6MQn1wHSI9Q703GVrd1ITkUedAup5b4dTvcv4MSehl1Vqiz8uwNOFA6MhgIjHCm5I1C1kGpSOidBZ_xgoktWHBIFr0mLT5fyWc22Q:1xTQFn:jFzNW12_YRHFtDNffg4sHnCYAabNfSEodOImLjevE5M",
+    "expire_date": "2026-12-01T20:58:11.614Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "nengivzb25fxeqgi4w85d6imvbj0ujxf",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRYKf:CW2xAc8kCq9PDfL5gof987Y_5jwKJjrLNqJrZKgeIQs",
+    "expire_date": "2026-11-26T17:11:29.799Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "o49frbe5yu54reqnrgkc0goqvqpn37yn",
+  "fields": {
+    "session_data": ".eJxtkE9rxCAUxL9K8RzC5o9p3FMp9NjTQq9hoi-JrdFgTKAs-92r3RRa6E1nxt-b55V12MLUbSv5Tit2ZkVdsOy32kN-kE2WeocdXS6dDV73eYrkh7vmr06ReT6yfwAT1imBeT1Q3Yqmqlo0KEoMJSpwwVveSwzgJE6yGSRvK1WL06NUoi9VyWsB2UBEaMKx85WlorHnXbCYKeJpXrodfrPdOsHPiPHDeUvqw-VHpRnaRPk7XBZPY7rHpeboeWfSC0U7GbfEYVk8L_BhJhui8WJHbYm8tmO0sCMgfpvVQcOsadSF3TK2OB9g7p2M-yT6j3z7AjiZfgk:1xStYj:HrGtiqBxC3RGok666WVayNHhQf-87pfvqaJd9QbVFTg",
+    "expire_date": "2026-11-30T10:03:33.397Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "oiyvt88ku35drncnwjr97j2yehbvel7h",
+  "fields": {
+    "session_data": "e30:1xSpNH:rFY6OM7pOPFmhyanA2yldkF8MnCmhKgTb76EmQSX60Y",
+    "expire_date": "2026-11-30T05:35:27.757Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "plj61pfztqhbx92ls24ztjkcw64sfumn",
+  "fields": {
+    "session_data": "e30:1xSpNG:6X9asikYz21Ix259vnapVVZ2cCXXTvMGalf8pC9J5yI",
+    "expire_date": "2026-11-30T05:35:26.887Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qj4yg35ra04d5zvkn3hp3nyjotaq0gq6",
+  "fields": {
+    "session_data": "e30:1xSpIx:0H4n_T3O-QVJM-yCzSbDtfhYqmXSj-mGR2XtA-uCshE",
+    "expire_date": "2026-11-30T05:30:59.638Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rkql7kq4cv3i0di3blxpp3exmbzh0tup",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRXfw:uieX2j-mD1-eUlbapCKV6okVQyDiaptJaUn32KW_F-4",
+    "expire_date": "2026-11-26T16:29:24.928Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "sqpmk11ev0zihgu1yhudvbtxviz4xhn3",
+  "fields": {
+    "session_data": "e30:1xSpIH:Xd5K_xl1XtN8fuhBydOd4gQx6JkhBOuWiFuR_C9ffpo",
+    "expire_date": "2026-11-30T05:30:17.817Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "sryn2urlmgkgkrfpj5y8mwtfsi267j60",
+  "fields": {
+    "session_data": ".eJx1ULtuwzAQ-5VAs2FI8EN1pqJolwKd8gEGbR1sJZZkyEqXIP_eU2v0MXTTkTySp5vocU1zf90o9taIo1CqFsVvdMB4IZ8pc4afQjkGn6Idyiwpd3Yr34Kh5WnX_jGYsc283UoY2VTyoVVNXWGs0LWD6uqO5NBgqIzU3ajrFmYkzQ8J3ZAxTUVGK60km2Y7cbyJXJR7fgEejnI5ohUXFu3z8-d8OB1eGSMHu3yLHmE3uIjEpzhmY1jyxhrDmcbUO3hMHFSwfEVMjnxi-sVP1hNF6yem8I4E_jJvk8Wy5cCTuBdiDTEhR_24_GN__wCbkn1Q:1xSpOi:fGIafCULEo4dQe8r1dRQxx6R1bnys2Q_17uGsUVU-us",
+    "expire_date": "2026-11-30T05:36:56.592Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "st3kwyxv49263by7190m782z0u9tnkkb",
+  "fields": {
+    "session_data": "e30:1xSpIw:OJf3WIGPs7XkEmn4cuflyDInOm3h0a4fn7KwZCk3gHs",
+    "expire_date": "2026-11-30T05:30:58.829Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ta1hd29mefps785v5uebd8nq1hp8alxy",
+  "fields": {
+    "session_data": "e30:1xSpIt:nWD7lTJG_s7ipfAIt8UERYK08qm8ns6Hw9K2_Ejp-f8",
+    "expire_date": "2026-11-30T05:30:55.415Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tjnj6zm202i4icqvghzg45p2zo2chvig",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFAebp07zeQAWakaiAp7cr479qkC93ec859sQjbWuM2cIlzYWcmPTv9jgnyA9tOyh3arfPc27rMie8KP-jg117weTncv4MKo35rdNJDsE4ZJSbIhYIPkgCDDLpIXQSlSUyOslKUyKIFclrYBMaaLJVi7w8GpzgK:1xTlpS:7zZBX2an2PkVfNNTLRExof9koSoGp242DuzW7hVnEs8",
+    "expire_date": "2026-12-02T20:00:26.220Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "u6z47gk9jafulj4zj7d9jd0ffu83p6al",
+  "fields": {
+    "session_data": "e30:1xSpIx:0H4n_T3O-QVJM-yCzSbDtfhYqmXSj-mGR2XtA-uCshE",
+    "expire_date": "2026-11-30T05:30:59.668Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "uy307r82u85vo9dlywimig2sazl2libi",
+  "fields": {
+    "session_data": ".eJxVkM1ugzAQhF8l8hkhfgQ4OTWVesypD4DG7Dq4xSYyJqoU5d1rp7RKjzsz--3PTfRYw9ivC_vekDiIUmTPmsLwyS4Z9AF3nvNhdsEbladIvrlLfpqJp9ct-w8wYhljN6NsGXpfF6RJFxLUVEpBy7ptK-aSGt1JqkpuCoCkQlfpoanrupF6D9lFaMKJw02kNcuf0sFyhIOscTGxle-wHmF33FS2MNNv6gVmedjxEBtNP0_PBOILfLDsQhTfvnhYg7ny7gSHMz_kTOCKgPgtZ4LBtKSBR3HPxGX2AX-DxP0bi_l0Bw:1xS1OE:iKMGaUQ4OhKUroyuIYLy77Bm82AzZCTEPzBLMu1-_k4",
+    "expire_date": "2026-11-28T00:13:06.927Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "v8w3jv5lxdejo95ga272av6m96jhszbm",
+  "fields": {
+    "session_data": ".eJxVjMsOgyAQRf-FdUNg5GWX3fsNBJix2DaQiK6a_ruauLDbe865X-bDumS_Npr9hOzOOna7bjGkN5UD4CuUZ-WplmWeIj8UftLGh4r0eZzu30EOLe-1NUhkXAwahAOwRoFKpMYRbCc1EkpEAhAGtEADuFu2x16CE9EJldhvA9MnNw4:1xRM4e:rzyXbYOkAuTSlFO0T4ekCXxqzQvLH8E0M1Ybm8pMHKI",
+    "expire_date": "2026-11-26T04:06:08.034Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vcv6383y31wlx6soztz1d7jaz2bc662x",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFAebp07zeQAWakaiAp7cr479qkC93ec859sQjbWuM2cIlzYWcmPTv9jgnyA9tOyh3arfPc27rMie8KP-jg117weTncv4MKo35rdNJDsE4ZJSbIhYIPkgCDDLpIXQSlSUyOslKUyKIFclrYBMaaLJVi7w8GpzgK:1xTlQd:adrS0ntXDFDdaaqwbm4BaogBB7TcIyLrOioOUgbOlCI",
+    "expire_date": "2026-12-02T19:34:47.274Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vi4riotj7clydou3lxwaqat7n5ykt2kr",
+  "fields": {
+    "session_data": ".eJx1ULtuwzAQ-5VAs2FI8EN1pqJolwKd8gEGbR1sJZZkyEqXIP_eU2v0MXTTkTySp5vocU1zf90o9taIo1CqFsVvdMB4IZ8pc4afQjkGn6Idyiwpd3Yr34Kh5WnX_jGYsc283UoY2VTyoVVNXWGs0LWD6uqO5NBgqIzU3ajrFmYkzQ8J3ZAxTUVGK60km2Y7cbyJXJR7fgEejnI5ohUXFu3z8-d8OB1eGSMHu3yLHmE3uIjEpzhmY1jyxhrDmcbUO3hMHFSwfEVMjnxi-sVP1hNF6yem8I4E_jJvk8Wy5cCTuBdiDTEhR_24_GN__wCbkn1Q:1xSu4y:aGmgce3L-tme8R7E2uP_I7PVGTziEzK13HcaZF87W_4",
+    "expire_date": "2026-11-30T10:36:52.978Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xbpvgva8ltzxnxz1mobv7mbt3ml58y1a",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEFOsC4dO83NAMzSNXQpI-V8d-1SRe6veec-1IDbWsdtkXmYWR1Vh7U6XdMlB_SdsJ3ardJ56mt85j0ruiDLvo6sTwvh_t3UGmp3xpCMaXLTmyKyac-Fo8cYkTMxjGyARYiBGeh64sVhGA7ApEEbByyen8ADy44JA:1xTlUU:7QgWG88AwbOBSeueYyj1IINpzK6mGcO-wniLsueqkwQ",
+    "expire_date": "2026-12-02T19:38:46.332Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xvtfruhbgm39kry613wf7wm3269utyzx",
+  "fields": {
+    "session_data": "eyJyb2xlIjoibWFuYWdlciJ9:1xStC1:ugWPYyE6DO7RWvnIy7gRF_XFx2qoQsQN56bIktUy-5k",
+    "expire_date": "2026-11-30T09:40:05.217Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "yzm0m3c1tthj4f1cdskwhglre3leyz3v",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAY6hRcuvcMZGCmUjU0Ke3KeHdD0oVu_3vvv1WkfStxb7LGmdVFWXX63RLlp9QO-EH1vui81G2dk-6KPmjTt4XldT3cv4NCrfTaEkrwOAQS450L6M4yISULSMYOCSBnnpwXzwAODITENI4eAA2mrD5f1eo3aA:1xRcbT:BOnvxW82JGLOWo5bHpHel4_wgLQHLXPLBBi1Gr-xITA",
+    "expire_date": "2026-11-26T21:45:07.186Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zfib1eyvkfgll61etre2k37m4m8a1cvt",
+  "fields": {
+    "session_data": "e30:1xSpNE:MS3Jo5WCO0qoYNvnDRVL--1xUgJtYXM2n8X40qclIe8",
+    "expire_date": "2026-11-30T05:35:24.219Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ziv0o50xk39bb35wizgrdau4anwdx4hf",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEFOsC4dO83NAMzSNXQpI-V8d-1SRe6veec-1IDbWsdtkXmYWR1Vh7U6XdMlB_SdsJ3ardJ56mt85j0ruiDLvo6sTwvh_t3UGmp3xpCMaXLTmyKyac-Fo8cYkTMxjGyARYiBGeh64sVhGA7ApEEbByyen8ADy44JA:1xTmlD:IIgTb0dOlWsh3_L6wezxrZF-YqU1nNWorMKk0ulup5I",
+    "expire_date": "2026-12-02T21:00:07.937Z"
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$tG6IYfMpcTxms85KsTQwxc$lApS2ofm8yE3xlF7bis1g5NbNRFjta7izOgIDhoyyzA=",
+    "last_login": "2026-11-17T20:58:11.609Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "System",
+    "last_name": "Administrator",
+    "email": "admin@aisamrat.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-11-12T03:54:25.224Z",
+    "role": "ADMIN",
+    "job_title": "Chief Executive Officer",
+    "department": "Executive Management",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$Bi2fApwOxW9sxxf7gcelVz$uJkmzT3+mu8qHnKnhFH2yGBCMPEWBjhA/FXdXiftWv8=",
+    "last_login": "2026-11-18T20:05:48.831Z",
+    "is_superuser": false,
+    "username": "emp_lakshmish",
+    "first_name": "Lakshmish",
+    "last_name": "",
+    "email": "emp_lakshmish@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:16.502Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": "ON_LEAVE",
+    "leave_until": "2026-11-23",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$l8XjPci4DYGMMQJ3AWbYBT$CTrj8bu/tBNglr4v4maoZ8Rc3OgJxZEtudP2pax/Y9I=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_swati",
+    "first_name": "Swati",
+    "last_name": "",
+    "email": "emp_swati@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:17.435Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$Kh8IYBZ7CqbDzEqPvUGSqw$jNfRwkOuM10pjbOsXKZ3MmQ1DmrJbc8xgPJZoloSQQM=",
+    "last_login": "2026-11-18T21:09:09.863Z",
+    "is_superuser": false,
+    "username": "emp_aviraj",
+    "first_name": "Aviraj",
+    "last_name": "",
+    "email": "emp_aviraj@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:17.915Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$phHxQ9rqywrNzpwZUe5NoB$O+1TDosxrMLvvdSZsmUh+XrC60LAP1j7KrVqregZcc4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_sunni_kumar",
+    "first_name": "Sunni",
+    "last_name": "Kumar",
+    "email": "emp_sunni_kumar@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:21.094Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$brwfcIpEVq2l3afREhQMuz$8QDUZ5dfk1Dpue5lJafghhIX3hlQr7z2awCdm86cUfM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_spandana_indira_r",
+    "first_name": "Spandana",
+    "last_name": "Indira R",
+    "email": "emp_spandana_indira_r@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:21.585Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$eMaVkxn9Bcf8JmItYlT4H2$WB/xx0tvoCnnYtx2ZTry9pGQYwLyfIoPw4gIeWfgkRo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_lekhana",
+    "first_name": "Lekhana",
+    "last_name": "",
+    "email": "emp_lekhana@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:23.635Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$10sfvCuhahUHUF6S6Tk8L8$ud+YL0QF9enmoK9FASf0R82yDhwdTO4kPZJbK99kC3Y=",
+    "last_login": "2026-11-18T22:25:42.984Z",
+    "is_superuser": false,
+    "username": "megha",
+    "first_name": "Megha",
+    "last_name": "",
+    "email": "megha@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:24.793Z",
+    "role": "MANAGER",
+    "job_title": "Project Manager",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$k8cUPosKLrSpxgOr0LF36O$LR7cOVfNVBU+KnA5JqGXBB27WaNkibVEwxSekTumU5o=",
+    "last_login": "2026-11-18T20:09:19.283Z",
+    "is_superuser": false,
+    "username": "emp_sai_mahanth",
+    "first_name": "Sai",
+    "last_name": "Mahanth",
+    "email": "emp_sai_mahanth@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:27.768Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$Wc0aDF6mkl9ZK8zFj6GhyF$oT4eIqM6tocRJ3zI6yP9CszzRkpm3N4zlP6l7cbVXZE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_varaprasad",
+    "first_name": "Varaprasad",
+    "last_name": "",
+    "email": "emp_varaprasad@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:32.665Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$9FNlrikcFRNOc1pnaRpDV5$XPpttS1whPuc9foSxs12ThQbefBwPaZUaN/vwwff6Cc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_varshini_r",
+    "first_name": "Varshini",
+    "last_name": "R",
+    "email": "emp_varshini_r@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:34.868Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$tbCV5Cf8km3RaJCEksrdpP$1SzwHEip0rGsrfpWtZ8JVaJT4G9STSEqD2DpnPR0/AA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_sneha_k",
+    "first_name": "Sneha",
+    "last_name": "K",
+    "email": "emp_sneha_k@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:35.444Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$9wGB7x53aqBzMeqsolzC3P$t5gKArIGb9tx1qkMhp7SKckPs2mi5KxVWuSxq5n+WMs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_nonisa_chilur",
+    "first_name": "Nonisa",
+    "last_name": "Chilur",
+    "email": "emp_nonisa_chilur@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:40.955Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$TeWT9K1MVKGXW3rDLhBjOD$TMUUH6EpiaX+4b4ryYmPel83PczNgugmnj+bOSDvh/U=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_rahil_rafeek",
+    "first_name": "Rahil",
+    "last_name": "Rafeek",
+    "email": "emp_rahil_rafeek@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:45.331Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$skmJq8e9umgtHHznTYgZ3o$iA8tDyx1JcQTPrSQHofs28KqaWuT+y5xDhG59txlpgA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_lakshmi_e",
+    "first_name": "Lakshmi",
+    "last_name": "E",
+    "email": "emp_lakshmi_e@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-12T17:09:46.086Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$Aq2TbWyZ8iooLTJtxLRIe8$xsrMn1BegYHWKUig8qUKGb5cNZGWkz6l0DkScKmdhOg=",
+    "last_login": "2026-11-16T05:17:15.915Z",
+    "is_superuser": false,
+    "username": "emp_arjun_sharma",
+    "first_name": "Arjun",
+    "last_name": "Sharma",
+    "email": "emp_arjun@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:09:54.937Z",
+    "role": "EMPLOYEE",
+    "job_title": "Developer",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$3f5LOVm0S4Oh1QoXkuJxLi$ZOGG9hXHBmcZqhOmy0qMY+ck6DMKSxJKRHgNy3sA7nA=",
+    "last_login": "2026-11-18T21:24:20.536Z",
+    "is_superuser": false,
+    "username": "deepak",
+    "first_name": "Deepak",
+    "last_name": "S J",
+    "email": "deepak@aisamrat.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:35.200Z",
+    "role": "MANAGER",
+    "job_title": "Project Manager",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$fUwX1HVCvgsUWwfzythGAj$JoQ3lYPJVxrbugxdjSPhzUdZno0lLN2jrkDT3pNcxY4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_darshan_naik",
+    "first_name": "Darshan",
+    "last_name": "Naik",
+    "email": "darshan_naik@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:51.866Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$HuBAjaYEMClYhARW9jyXPd$nrdWeeH751iN6uyf/mzN6WmT+p1mdNr8wEgjKGf8MvY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_dhanvish_s_j",
+    "first_name": "Dhanvish",
+    "last_name": "S J",
+    "email": "dhanvish_s_j@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:52.312Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$fgE6eVGGgwoC2Y3eqRrvGK$mBYtR4fK9AF7nz3s+2qBWHMFw4wH25XrSM4/4pE4xpY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_fathima_zara",
+    "first_name": "Fathima",
+    "last_name": "Zara",
+    "email": "fathima_zara@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:52.820Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$ROfk58lSCRvQ5LDKZXU5Go$+dUpb9hP6KtANi1WaiZNWetiJm+SYP2Bke1PgUjuKwI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_ganesh_vallabh_m",
+    "first_name": "Ganesh",
+    "last_name": "Vallabh M",
+    "email": "ganesh_vallabh_m@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:53.312Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$8LmmaHzm7H4zqBdE6DTTRN$YI7D1ek3BOrawxtk2UCX064Vwb4IUSCLnhD1muVlUOM=",
+    "last_login": "2026-11-17T22:18:35.002Z",
+    "is_superuser": false,
+    "username": "emp_gurukiran_m",
+    "first_name": "Gurukiran",
+    "last_name": "M",
+    "email": "gurukiran_m@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:53.792Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$oNfHGgiTIehnonEqXI6V47$jkkIBOl7hKI4HHKATzaGeDLQtnlQV6ekyUxxLbBFFjg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_karri_sai_sreekar",
+    "first_name": "Karri",
+    "last_name": "Sai Sreekar",
+    "email": "karri_sai_sreekar@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:54.237Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$ARa4xSzSgT1iA05tz293aE$3Q/XlI3ClR+JEgpqe3x2gEUOU3Vk9hA+EnwlXLF9g/k=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_kethan_rao_g",
+    "first_name": "Kethan",
+    "last_name": "Rao G",
+    "email": "kethan_rao_g@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:54.714Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$bInlqdOINOIDtINOSQ783x$72DXNsOxazSK0rmkTvJv/I+RTnNlQ45eBr6sMDJKmak=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_kushi_kumari",
+    "first_name": "Kushi",
+    "last_name": "Kumari",
+    "email": "kushi_kumari@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:55.212Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$HmEDk8Ff8R7BixBCZWof7M$zIT+75ZkLg3ZzlRJuwGnb6hCNxpgHu0kkulmFPOAAcQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_neelima_mangala",
+    "first_name": "Neelima",
+    "last_name": "Mangala",
+    "email": "neelima_mangala@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:57.654Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$4QIIjnBduAhsaYbkkDcHQb$tOY44L7uyhWYuCMH5bAZuA0Xcvz7XFRjlSLuZqGk+4g=",
+    "last_login": "2026-11-17T22:07:59.258Z",
+    "is_superuser": false,
+    "username": "emp_omkar_vernekar",
+    "first_name": "Omkar",
+    "last_name": "Vernekar",
+    "email": "omkar_vernekar@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:28:59.571Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$dE5EPurQn7XOsYVsDlQ7lZ$KNZmZDdYyWAsM2fya8RjRyRw/a17qbvRyWvhN3aVbNI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_padmanabh_g_madva",
+    "first_name": "Padmanabh",
+    "last_name": "G Madva",
+    "email": "padmanabh_g_madva@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:29:00.050Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$c7d0SKOspmD1CwcuIqQuRt$PVREEG5zsrd5i1gS9ZsXDCmaaS+5MoN9oVvQjHiN4pI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_pasupuleti_punith",
+    "first_name": "Pasupuleti",
+    "last_name": "Punith",
+    "email": "pasupuleti_punith@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:29:00.605Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$0zuv2wyynjVm21TqnSOdEr$9hdCwS3PfhpV3ouRcFESaPPlnX15jDAQHgqvaZXvXyw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_pravya_pavithran",
+    "first_name": "Pravya",
+    "last_name": "Pavithran",
+    "email": "pravya_pavithran@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:29:03.104Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$Uki14ieCHG9m1Yl6TxUfrW$kdvq1ddXBP8rznXoT1DPiiy6H4OjJqOhNPj6+TEiDbc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_rahul_s",
+    "first_name": "Rahul",
+    "last_name": "S",
+    "email": "rahul_s@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:29:06.147Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$m9zfQw4GAC2fa5DgjuT4fS$KBNc16hM8za3zsVj1RpGypPexnL5Tv96rCI5oS9ORV0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_ramin_naidu",
+    "first_name": "Ramin",
+    "last_name": "Naidu",
+    "email": "ramin_naidu@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:29:07.631Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$trzCawnaglauLNjtGqVi0N$6ybyLq5ol6o8dyGjhxpTD1aeR+Y4zkMx5fOY8NQqkSc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_sachin_v_sagarnal",
+    "first_name": "Sachin",
+    "last_name": "V Sagarnal",
+    "email": "sachin_v_sagarnal@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:29:09.243Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$lkNDSGw9tIojvkAo8kivDU$z4X0ieuR+R7TGzbTix7PI+tCX18TYPqt7/ZPem5nf9o=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_salil_v_madivala",
+    "first_name": "Salil",
+    "last_name": "V Madivala",
+    "email": "salil_v_madivala@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T00:42:05.672Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$zbOwJCnZsa5dC5jhMcbrIE$0fHpmNUgVuoBfcGBL9gMo9YwcbA+1lCzy72WaWFGj+k=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_sudeep_bhulla",
+    "first_name": "Sudeep",
+    "last_name": "Bhulla",
+    "email": "sudeep_bhulla@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T02:25:33.884Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$YGO8DEcA9fR4Bn1VpTqSaO$BmrO1dJFdRdEo+Q7KLjiZnefQSZNHh+bK/KMKwlK4bE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_vikas_m_bennur",
+    "first_name": "Vikas",
+    "last_name": "M Bennur",
+    "email": "vikas_m_bennur@aisamrat.internal",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-14T02:25:36.599Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$FTlD2vRRFEHkfj0gOUXhqz$0ORXpuOQcvx5MkVE4ukgNUz96BDPM3oK7d6xipr571g=",
+    "last_login": "2026-11-16T09:48:13.856Z",
+    "is_superuser": false,
+    "username": "rohan.verma",
+    "first_name": "Rohan",
+    "last_name": "Verma",
+    "email": "rohan.verma@aisamrat.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2026-11-16T09:48:09.441Z",
+    "role": "EMPLOYEE",
+    "job_title": "Frontend Developer",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$gmanqvR1SLNojz91U65y2b$Km1PsEey1vThQJLJ5D244DRbCrq9I9d/6dS3Lekj7Jw=",
+    "last_login": "2026-11-16T09:49:56.608Z",
+    "is_superuser": false,
+    "username": "aarav.patel",
+    "first_name": "Aarav",
+    "last_name": "Patel",
+    "email": "aarav.patel@aisamrat.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2026-11-16T09:49:51.576Z",
+    "role": "EMPLOYEE",
+    "job_title": "Backend Developer",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$xnI0p6SVbc3RFHzcehOo2l$N1xz0VMdWc8vpzrzG4CNCXOy68PkCVfC9stNx+Avgp4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "manager_priya",
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "email": "priya.sharma@aisamrat.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:45.519Z",
+    "role": "MANAGER",
+    "job_title": "Senior Engineering Manager",
+    "department": "Product Delivery",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$Lmv0QzZP5P1k393VO8LSrn$rpiN9iSfm+uaiGomF4KxOIN0NKs0YXJoCIT9IoTMYiU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_sanjana_reddy",
+    "first_name": "Sanjana",
+    "last_name": "Reddy",
+    "email": "emp_sanjana_reddy@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:47.899Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Intern Product Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$PHMRvnjFtQS0JfmaoIuCC3$v8UF59D1We/qXByuk6ZQJxVCKnd7qQ3UI9gZu2Wf+K4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_aakash",
+    "first_name": "Aakash",
+    "last_name": "",
+    "email": "emp_aakash@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:48.402Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Intern Product Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$h05eHIP9cFR8TpX7VYoxT7$PoghnY17J1dsQspepn6euq0N1j/DLtzmaTspAcxYFHU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_shruthi",
+    "first_name": "Shruthi",
+    "last_name": "",
+    "email": "emp_shruthi@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:48.894Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Intern Product Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$cp8NpOI3hGqbA2gp2Hv6oJ$t6FOA7pGh9RWG5GvFfKABYc2HRip+T0sbvF4kN/Y9+8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_y_charan",
+    "first_name": "Y.charan",
+    "last_name": "",
+    "email": "emp_y_charan@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:49.417Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Intern Product Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$89x90TCJzUVhZZ3HCWo3EN$jWoagfOAW3VJJsRwfaNDDKAg9dluoVAziEiK32/nlGQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_deepak_s_j",
+    "first_name": "Deepak",
+    "last_name": "S J",
+    "email": "emp_deepak_s_j@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:53.071Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Intern Product Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$vFIMv9ivwwW29fUevK3voM$xnwU//8uS7K2uxkGnEcZXlx+MJbUqsyClb6mMIX6u1o=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_prajyot",
+    "first_name": "Prajyot",
+    "last_name": "",
+    "email": "emp_prajyot@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:53.616Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Intern Product Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$KpZM6FJIqzROSSYbWK7UAC$MO4dWPd0R9XecvY5d4ugubKagBL+v8ZpkMRLjE9X5QI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_nikil_h_e",
+    "first_name": "Nikil",
+    "last_name": "H. E.",
+    "email": "emp_nikil_h_e@aisamrat.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-17T19:32:54.787Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineering Intern",
+    "department": "Intern Product Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$SCFi8LxvS5F6b2ymhpu8YG$ot+DopxT9j0jdcM2e9EO0tcFGRMGzdiVSMiuwk4Sh2w=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_binducgowda1947",
+    "first_name": "Bindu",
+    "last_name": "C Gowda",
+    "email": "binducgowda1947@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-18T18:39:44.419Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineer",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1500000$ZSlyO5UNMiwUXxSGhFACGK$KJWuTIcid8k4Yusui5uv8JZZIEK8aZfqGUZZTh0ZS0M=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emp_sannikumar1732003",
+    "first_name": "Sanni",
+    "last_name": "kumar",
+    "email": "sannikumar1732003@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-11-18T18:39:48.929Z",
+    "role": "EMPLOYEE",
+    "job_title": "Software Engineer",
+    "department": "Engineering",
+    "availability_override": null,
+    "leave_until": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 43,
+  "fields": {
+    "project_code": "AIS-PRJ-01",
+    "name": "connect",
+    "description": "Enterprise initiative: connect. Assigned to interns engineering team.",
+    "start_date": "2026-10-19",
+    "end_date": "2027-01-17",
+    "status": "In Progress",
+    "priority": "High",
+    "progress": 56,
+    "frontend_progress": 52,
+    "backend_progress": 55,
+    "database_progress": 60,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmish"
+    ],
+    "created_at": "2026-11-14T02:25:38.382Z",
+    "updated_at": "2026-11-17T19:33:42.118Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 44,
+  "fields": {
+    "project_code": "AIS-PRJ-02",
+    "name": "E 2 E",
+    "description": "Enterprise initiative: E 2 E. Assigned to interns engineering team.",
+    "start_date": "2026-02-11",
+    "end_date": "2026-05-12",
+    "status": "In Progress",
+    "priority": "Critical",
+    "progress": 60,
+    "frontend_progress": 56,
+    "backend_progress": 59,
+    "database_progress": 64,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Cloud & DevOps",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:38.612Z",
+    "updated_at": "2026-11-17T19:33:42.168Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 45,
+  "fields": {
+    "project_code": "AIS-PRJ-03",
+    "name": "ERP",
+    "description": "Enterprise initiative: ERP. Assigned to interns engineering team.",
+    "start_date": "2026-10-19",
+    "end_date": "2027-01-17",
+    "status": "In Progress",
+    "priority": "Critical",
+    "progress": 59,
+    "frontend_progress": 51,
+    "backend_progress": 58,
+    "database_progress": 69,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_sunni_kumar"
+    ],
+    "created_at": "2026-11-14T02:25:38.763Z",
+    "updated_at": "2026-11-17T19:33:42.201Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 46,
+  "fields": {
+    "project_code": "AIS-PRJ-04",
+    "name": "token Project",
+    "description": "Enterprise initiative: token Project. Assigned to interns engineering team.",
+    "start_date": "2026-10-31",
+    "end_date": "2027-01-29",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 63,
+    "frontend_progress": 55,
+    "backend_progress": 62,
+    "database_progress": 73,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:38.922Z",
+    "updated_at": "2026-11-17T19:33:42.250Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 47,
+  "fields": {
+    "project_code": "AIS-PRJ-05",
+    "name": "Ticket Tokening",
+    "description": "Enterprise initiative: Ticket Tokening. Assigned to interns engineering team.",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-30",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 27,
+    "frontend_progress": 22,
+    "backend_progress": 25,
+    "database_progress": 33,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmish"
+    ],
+    "created_at": "2026-11-14T02:25:39.051Z",
+    "updated_at": "2026-11-17T19:33:42.283Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 48,
+  "fields": {
+    "project_code": "AIS-PRJ-06",
+    "name": "Employee Performance Analytics",
+    "description": "Enterprise initiative: Employee Performance Analytics. Assigned to interns engineering team.",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-27",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Automation & Analytics",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varaprasad"
+    ],
+    "created_at": "2026-11-14T02:25:39.446Z",
+    "updated_at": "2026-11-17T19:33:42.367Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 49,
+  "fields": {
+    "project_code": "AIS-PRJ-07",
+    "name": "Bug tracking system",
+    "description": "Enterprise initiative: Bug tracking system. Assigned to interns engineering team.",
+    "start_date": "2026-04-11",
+    "end_date": "2026-07-10",
+    "status": "In Progress",
+    "priority": "High",
+    "progress": 73,
+    "frontend_progress": 66,
+    "backend_progress": 74,
+    "database_progress": 79,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Software Solutions",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varaprasad"
+    ],
+    "created_at": "2026-11-14T02:25:39.548Z",
+    "updated_at": "2026-11-17T19:33:42.386Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 50,
+  "fields": {
+    "project_code": "AIS-PRJ-08",
+    "name": "Server Performence Monitoring",
+    "description": "Enterprise initiative: Server Performence Monitoring. Assigned to interns engineering team.",
+    "start_date": "2026-04-11",
+    "end_date": "2026-11-06",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Cloud & DevOps",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_arjun_sharma"
+    ],
+    "created_at": "2026-11-14T02:25:39.647Z",
+    "updated_at": "2026-11-17T19:33:42.419Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 51,
+  "fields": {
+    "project_code": "AIS-PRJ-09",
+    "name": "Bug Busters HRMS",
+    "description": "Enterprise initiative: Bug Busters HRMS. Assigned to interns engineering team.",
+    "start_date": "2026-07-10",
+    "end_date": "2026-09-08",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 79,
+    "frontend_progress": 73,
+    "backend_progress": 77,
+    "database_progress": 88,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varshini_r"
+    ],
+    "created_at": "2026-11-14T02:25:39.752Z",
+    "updated_at": "2026-11-17T19:33:42.446Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 52,
+  "fields": {
+    "project_code": "AIS-PRJ-10",
+    "name": "SAMHUB",
+    "description": "Enterprise initiative: SAMHUB. Assigned to interns engineering team.",
+    "start_date": "2026-11-10",
+    "end_date": "2027-02-08",
+    "status": "In Progress",
+    "priority": "High",
+    "progress": 83,
+    "frontend_progress": 77,
+    "backend_progress": 81,
+    "database_progress": 92,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:39.974Z",
+    "updated_at": "2026-11-17T19:33:42.477Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 53,
+  "fields": {
+    "project_code": "AIS-PRJ-11",
+    "name": "Sam Website",
+    "description": "Enterprise initiative: Sam Website. Assigned to interns engineering team.",
+    "start_date": "2026-11-10",
+    "end_date": "2027-02-08",
+    "status": "In Progress",
+    "priority": "High",
+    "progress": 87,
+    "frontend_progress": 81,
+    "backend_progress": 85,
+    "database_progress": 96,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_spandana_indira_r"
+    ],
+    "created_at": "2026-11-14T02:25:40.180Z",
+    "updated_at": "2026-11-17T19:33:42.509Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 54,
+  "fields": {
+    "project_code": "AIS-PRJ-12",
+    "name": "AI HR Assistance",
+    "description": "Enterprise initiative: AI HR Assistance. Assigned to interns engineering team.",
+    "start_date": "2026-10-10",
+    "end_date": "2026-11-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmi_e"
+    ],
+    "created_at": "2026-11-14T02:25:40.456Z",
+    "updated_at": "2026-11-17T19:33:42.551Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 55,
+  "fields": {
+    "project_code": "AIS-PRJ-13",
+    "name": "Al Weather Prediction",
+    "description": "Enterprise initiative: Al Weather Prediction. Assigned to interns engineering team.",
+    "start_date": "2026-10-15",
+    "end_date": "2026-11-14",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmish"
+    ],
+    "created_at": "2026-11-14T02:25:40.524Z",
+    "updated_at": "2026-11-17T19:33:42.551Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 56,
+  "fields": {
+    "project_code": "AIS-PRJ-14",
+    "name": "Bankgaurd",
+    "description": "Enterprise initiative: Bankgaurd. Assigned to interns engineering team.",
+    "start_date": "2026-02-11",
+    "end_date": "2026-05-12",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 52,
+    "frontend_progress": 46,
+    "backend_progress": 52,
+    "database_progress": 58,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lekhana"
+    ],
+    "created_at": "2026-11-14T02:25:40.807Z",
+    "updated_at": "2026-11-17T19:33:42.602Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 57,
+  "fields": {
+    "project_code": "AIS-PRJ-15",
+    "name": "AI Finance Advisior with ERP",
+    "description": "Enterprise initiative: AI Finance Advisior with ERP. Assigned to interns engineering team.",
+    "start_date": "2026-10-27",
+    "end_date": "2026-11-26",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmi_e"
+    ],
+    "created_at": "2026-11-14T02:25:40.850Z",
+    "updated_at": "2026-11-17T19:33:42.614Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 58,
+  "fields": {
+    "project_code": "AIS-PRJ-16",
+    "name": "Brain AI",
+    "description": "Enterprise initiative: Brain AI. Assigned to interns engineering team.",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-30",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 27,
+    "frontend_progress": 24,
+    "backend_progress": 26,
+    "database_progress": 30,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:40.927Z",
+    "updated_at": "2026-11-17T19:33:42.633Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 59,
+  "fields": {
+    "project_code": "AIS-PRJ-17",
+    "name": "Exam site",
+    "description": "Enterprise initiative: Exam site. Assigned to interns engineering team.",
+    "start_date": "2026-04-11",
+    "end_date": "2026-07-10",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 64,
+    "frontend_progress": 58,
+    "backend_progress": 64,
+    "database_progress": 71,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmi_e"
+    ],
+    "created_at": "2026-11-14T02:25:41.137Z",
+    "updated_at": "2026-11-17T19:33:42.666Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 60,
+  "fields": {
+    "project_code": "AIS-PRJ-18",
+    "name": "Airlines",
+    "description": "Enterprise initiative: Airlines. Assigned to interns engineering team.",
+    "start_date": "2026-04-11",
+    "end_date": "2026-06-11",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmi_e"
+    ],
+    "created_at": "2026-11-14T02:25:41.287Z",
+    "updated_at": "2026-11-17T19:33:42.690Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 61,
+  "fields": {
+    "project_code": "AIS-PRJ-19",
+    "name": "Multi-Agent Workflow",
+    "description": "Enterprise initiative: Multi-Agent Workflow. Assigned to interns engineering team.",
+    "start_date": "2026-10-22",
+    "end_date": "2026-11-21",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": null,
+    "created_at": "2026-11-14T02:25:41.448Z",
+    "updated_at": "2026-11-17T19:33:42.713Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 62,
+  "fields": {
+    "project_code": "AIS-PRJ-20",
+    "name": "E-Invoice System",
+    "description": "Enterprise initiative: E-Invoice System. Assigned to interns engineering team.",
+    "start_date": "2026-10-30",
+    "end_date": "2026-11-29",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_ramin_naidu"
+    ],
+    "created_at": "2026-11-14T02:25:41.584Z",
+    "updated_at": "2026-11-17T19:33:42.752Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 63,
+  "fields": {
+    "project_code": "AIS-PRJ-21",
+    "name": "AWS file uploader and PWA",
+    "description": "Enterprise initiative: AWS file uploader and PWA. Assigned to interns engineering team.",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-30",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 25,
+    "frontend_progress": 20,
+    "backend_progress": 26,
+    "database_progress": 28,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Cloud & DevOps",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lekhana"
+    ],
+    "created_at": "2026-11-14T02:25:41.679Z",
+    "updated_at": "2026-11-17T19:33:42.772Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 64,
+  "fields": {
+    "project_code": "AIS-PRJ-22",
+    "name": "Task 1 and 2",
+    "description": "Enterprise initiative: Task 1 and 2. Assigned to interns engineering team.",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Software Solutions",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:41.809Z",
+    "updated_at": "2026-11-17T19:33:42.803Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 65,
+  "fields": {
+    "project_code": "AIS-PRJ-23",
+    "name": "Spam Email Detection",
+    "description": "Enterprise initiative: Spam Email Detection. Assigned to interns engineering team.",
+    "start_date": "2026-10-15",
+    "end_date": "2026-11-14",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": null,
+    "created_at": "2026-11-14T02:25:42.013Z",
+    "updated_at": "2026-11-17T19:33:42.849Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 66,
+  "fields": {
+    "project_code": "AIS-PRJ-24",
+    "name": "Task 5 and Task 6",
+    "description": "Enterprise initiative: Task 5 and Task 6. Assigned to interns engineering team.",
+    "start_date": "2026-07-10",
+    "end_date": "2026-08-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Software Solutions",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varshini_r"
+    ],
+    "created_at": "2026-11-14T02:25:42.247Z",
+    "updated_at": "2026-11-17T19:33:42.904Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 67,
+  "fields": {
+    "project_code": "AIS-PRJ-25",
+    "name": "vehicle damage detection",
+    "description": "Enterprise initiative: vehicle damage detection. Assigned to interns engineering team.",
+    "start_date": "2026-08-10",
+    "end_date": "2026-09-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varshini_r"
+    ],
+    "created_at": "2026-11-14T02:25:42.474Z",
+    "updated_at": "2026-11-17T19:33:42.959Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 68,
+  "fields": {
+    "project_code": "AIS-PRJ-26",
+    "name": "Facial emotion detection",
+    "description": "Enterprise initiative: Facial emotion detection. Assigned to interns engineering team.",
+    "start_date": "2026-08-10",
+    "end_date": "2026-09-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_spandana_indira_r"
+    ],
+    "created_at": "2026-11-14T02:25:42.714Z",
+    "updated_at": "2026-11-17T19:33:43.008Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 69,
+  "fields": {
+    "project_code": "AIS-PRJ-27",
+    "name": "Task 3 and Task 4",
+    "description": "Enterprise initiative: Task 3 and Task 4. Assigned to interns engineering team.",
+    "start_date": "2026-10-10",
+    "end_date": "2026-11-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Software Solutions",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_spandana_indira_r"
+    ],
+    "created_at": "2026-11-14T02:25:42.895Z",
+    "updated_at": "2026-11-17T19:33:43.066Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 70,
+  "fields": {
+    "project_code": "AIS-PRJ-28",
+    "name": "Terminus",
+    "description": "Enterprise initiative: Terminus. Assigned to interns engineering team.",
+    "start_date": "2026-10-10",
+    "end_date": "2026-11-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Cloud & DevOps",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:43.056Z",
+    "updated_at": "2026-11-17T19:33:43.125Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 71,
+  "fields": {
+    "project_code": "AIS-PRJ-29",
+    "name": "Cybersecurity Threat detection",
+    "description": "Enterprise initiative: Cybersecurity Threat detection. Assigned to interns engineering team.",
+    "start_date": "2026-10-22",
+    "end_date": "2026-11-21",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:43.323Z",
+    "updated_at": "2026-11-17T19:33:43.258Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 72,
+  "fields": {
+    "project_code": "AIS-PRJ-30",
+    "name": "AI Inventary Agent with ERP",
+    "description": "Enterprise initiative: AI Inventary Agent with ERP. Assigned to interns engineering team.",
+    "start_date": "2026-10-01",
+    "end_date": "2026-11-30",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 25,
+    "frontend_progress": 20,
+    "backend_progress": 25,
+    "database_progress": 30,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varshini_r"
+    ],
+    "created_at": "2026-11-14T02:25:43.456Z",
+    "updated_at": "2026-11-17T19:33:43.312Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 73,
+  "fields": {
+    "project_code": "AIS-PRJ-31",
+    "name": "AI Customer Support Agent",
+    "description": "Enterprise initiative: AI Customer Support Agent. Assigned to interns engineering team.",
+    "start_date": "2026-10-10",
+    "end_date": "2026-11-09",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_darshan_naik"
+    ],
+    "created_at": "2026-11-14T02:25:43.627Z",
+    "updated_at": "2026-11-17T19:33:43.353Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 74,
+  "fields": {
+    "project_code": "AIS-PRJ-32",
+    "name": "SSS",
+    "description": "Enterprise initiative: SSS. Assigned to interns engineering team.",
+    "start_date": "2026-10-10",
+    "end_date": "2026-11-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 83,
+    "frontend_progress": 85,
+    "backend_progress": 90,
+    "database_progress": 75,
+    "latest_progress_report": "📊 PROGRESS REPORT — SSS (AIS-PRJ-32)\nGenerated by POC: Aviraj\nTimestamp: 18 Nov 2026, 07:34 PM\n--------------------------------------------------\n• Frontend Module:  85% completed\n• Backend Module:   90% completed\n• Database Module:  75% completed\n• Overall Delivery: 83% (In Progress)",
+    "progress_reported_at": "2026-11-18T19:34:47.334Z",
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_aviraj"
+    ],
+    "created_at": "2026-11-14T02:25:43.702Z",
+    "updated_at": "2026-11-18T19:34:47.334Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 75,
+  "fields": {
+    "project_code": "AIS-PRJ-33",
+    "name": "Skill Matrix",
+    "description": "Enterprise initiative: Skill Matrix. Assigned to interns engineering team.",
+    "start_date": "2026-10-16",
+    "end_date": "2026-11-15",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Automation & Analytics",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_sneha_k"
+    ],
+    "created_at": "2026-11-14T02:25:43.945Z",
+    "updated_at": "2026-11-17T19:33:43.424Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 76,
+  "fields": {
+    "project_code": "AIS-PRJ-34",
+    "name": "AI Agent For Academy",
+    "description": "Enterprise initiative: AI Agent For Academy. Assigned to interns engineering team.",
+    "start_date": "2026-10-15",
+    "end_date": "2026-11-14",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_darshan_naik"
+    ],
+    "created_at": "2026-11-14T02:25:44.050Z",
+    "updated_at": "2026-11-17T19:33:43.450Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 77,
+  "fields": {
+    "project_code": "AIS-PRJ-35",
+    "name": "Internal Project Dashboard",
+    "description": "Enterprise initiative: Internal Project Dashboard. Assigned to interns engineering team.",
+    "start_date": "2026-11-11",
+    "end_date": "2027-02-09",
+    "status": "In Progress",
+    "priority": "Critical",
+    "progress": 77,
+    "frontend_progress": 71,
+    "backend_progress": 76,
+    "database_progress": 84,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varaprasad"
+    ],
+    "created_at": "2026-11-14T02:25:44.102Z",
+    "updated_at": "2026-11-17T19:33:43.460Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 78,
+  "fields": {
+    "project_code": "AIS-PRJ-36",
+    "name": "Confluence",
+    "description": "Enterprise initiative: Confluence. Assigned to interns engineering team.",
+    "start_date": "2026-06-11",
+    "end_date": "2026-09-09",
+    "status": "In Progress",
+    "priority": "High",
+    "progress": 81,
+    "frontend_progress": 74,
+    "backend_progress": 80,
+    "database_progress": 88,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmish"
+    ],
+    "created_at": "2026-11-14T02:25:44.202Z",
+    "updated_at": "2026-11-17T19:33:43.480Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 79,
+  "fields": {
+    "project_code": "AIS-PRJ-37",
+    "name": "Database backup",
+    "description": "Enterprise initiative: Database backup. Assigned to interns engineering team.",
+    "start_date": "2026-10-11",
+    "end_date": "2027-01-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 85,
+    "frontend_progress": 78,
+    "backend_progress": 84,
+    "database_progress": 92,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varaprasad"
+    ],
+    "created_at": "2026-11-14T02:25:44.366Z",
+    "updated_at": "2026-11-17T19:33:43.495Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 80,
+  "fields": {
+    "project_code": "AIS-PRJ-38",
+    "name": "Voice Based Email",
+    "description": "Enterprise initiative: Voice Based Email. Assigned to interns engineering team.",
+    "start_date": "2026-11-11",
+    "end_date": "2027-02-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 87,
+    "frontend_progress": 82,
+    "backend_progress": 83,
+    "database_progress": 97,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmish"
+    ],
+    "created_at": "2026-11-14T02:25:44.531Z",
+    "updated_at": "2026-11-17T19:33:43.533Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 81,
+  "fields": {
+    "project_code": "AIS-PRJ-39",
+    "name": "Network port",
+    "description": "Enterprise initiative: Network port. Assigned to interns engineering team.",
+    "start_date": "2026-12-11",
+    "end_date": "2027-03-11",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 88,
+    "frontend_progress": 77,
+    "backend_progress": 87,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varshini_r"
+    ],
+    "created_at": "2026-11-14T02:25:44.679Z",
+    "updated_at": "2026-11-17T19:33:43.549Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 82,
+  "fields": {
+    "project_code": "AIS-PRJ-40",
+    "name": "VPN",
+    "description": "Enterprise initiative: VPN. Assigned to interns engineering team.",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-30",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 52,
+    "frontend_progress": 44,
+    "backend_progress": 51,
+    "database_progress": 61,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmish"
+    ],
+    "created_at": "2026-11-14T02:25:44.772Z",
+    "updated_at": "2026-11-17T19:33:43.558Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 83,
+  "fields": {
+    "project_code": "AIS-PRJ-41",
+    "name": "Finance ledger integrity",
+    "description": "Enterprise initiative: Finance ledger integrity. Assigned to interns engineering team.",
+    "start_date": "2026-11-11",
+    "end_date": "2027-02-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 56,
+    "frontend_progress": 47,
+    "backend_progress": 55,
+    "database_progress": 65,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": null,
+    "created_at": "2026-11-14T02:25:44.895Z",
+    "updated_at": "2026-11-17T19:33:43.617Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 84,
+  "fields": {
+    "project_code": "AIS-PRJ-42",
+    "name": "Audit",
+    "description": "Enterprise initiative: Audit. Assigned to interns engineering team.",
+    "start_date": "2026-10-11",
+    "end_date": "2027-01-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 57,
+    "frontend_progress": 51,
+    "backend_progress": 59,
+    "database_progress": 62,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_nonisa_chilur"
+    ],
+    "created_at": "2026-11-14T02:25:44.940Z",
+    "updated_at": "2026-11-17T19:33:43.629Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 85,
+  "fields": {
+    "project_code": "AIS-PRJ-43",
+    "name": "Calender Change",
+    "description": "Enterprise initiative: Calender Change. Assigned to interns engineering team.",
+    "start_date": "2026-10-11",
+    "end_date": "2027-01-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 60,
+    "frontend_progress": 55,
+    "backend_progress": 58,
+    "database_progress": 67,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_spandana_indira_r"
+    ],
+    "created_at": "2026-11-14T02:25:45.076Z",
+    "updated_at": "2026-11-17T19:33:43.660Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 86,
+  "fields": {
+    "project_code": "AIS-PRJ-44",
+    "name": "Zoom and Asana",
+    "description": "Enterprise initiative: Zoom and Asana. Assigned to interns engineering team.",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "status": "Completed",
+    "priority": "Medium",
+    "progress": 100,
+    "frontend_progress": 100,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Enterprise Systems",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_kethan_rao_g"
+    ],
+    "created_at": "2026-11-14T02:25:45.234Z",
+    "updated_at": "2026-11-17T19:33:43.693Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 87,
+  "fields": {
+    "project_code": "AIS-PRJ-45",
+    "name": "CSAT",
+    "description": "Enterprise initiative: CSAT. Assigned to interns engineering team.",
+    "start_date": "2026-11-11",
+    "end_date": "2027-02-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 68,
+    "frontend_progress": 62,
+    "backend_progress": 66,
+    "database_progress": 75,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Automation & Analytics",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_salil_v_madivala"
+    ],
+    "created_at": "2026-11-14T02:25:45.276Z",
+    "updated_at": "2026-11-17T19:33:43.708Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 88,
+  "fields": {
+    "project_code": "AIS-PRJ-46",
+    "name": "WAF",
+    "description": "Enterprise initiative: WAF. Assigned to interns engineering team.",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-30",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 72,
+    "frontend_progress": 66,
+    "backend_progress": 70,
+    "database_progress": 80,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": null,
+    "created_at": "2026-11-14T02:25:45.315Z",
+    "updated_at": "2026-11-17T19:33:43.724Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 89,
+  "fields": {
+    "project_code": "AIS-PRJ-47",
+    "name": "DRP Project",
+    "description": "Enterprise initiative: DRP Project. Assigned to interns engineering team.",
+    "start_date": "2026-11-13",
+    "end_date": "2027-02-11",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 76,
+    "frontend_progress": 70,
+    "backend_progress": 74,
+    "database_progress": 84,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Security & Infrastructure",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_pravya_pavithran"
+    ],
+    "created_at": "2026-11-14T02:25:45.371Z",
+    "updated_at": "2026-11-17T19:33:43.740Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 90,
+  "fields": {
+    "project_code": "AIS-PRJ-48",
+    "name": "Exam Site",
+    "description": "Enterprise initiative: Exam Site. Assigned to interns engineering team.",
+    "start_date": "2026-05-11",
+    "end_date": "2026-10-11",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 96,
+    "frontend_progress": 89,
+    "backend_progress": 100,
+    "database_progress": 100,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_lakshmi_e"
+    ],
+    "created_at": "2026-11-14T02:25:45.427Z",
+    "updated_at": "2026-11-17T19:33:43.750Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 91,
+  "fields": {
+    "project_code": "AIS-PRJ-49",
+    "name": "Channel Platform",
+    "description": "Enterprise initiative: Channel Platform. Assigned to interns engineering team.",
+    "start_date": "2026-06-11",
+    "end_date": "2026-09-09",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 77,
+    "frontend_progress": 68,
+    "backend_progress": 77,
+    "database_progress": 86,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Web Platforms",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_dhanvish_s_j"
+    ],
+    "created_at": "2026-11-14T02:25:45.480Z",
+    "updated_at": "2026-11-17T19:33:43.757Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 92,
+  "fields": {
+    "project_code": "AIS-PRJ-50",
+    "name": "Sales prediction with linear regression",
+    "description": "Enterprise initiative: Sales prediction with linear regression. Assigned to interns engineering team.",
+    "start_date": "2026-11-13",
+    "end_date": "2027-02-11",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 81,
+    "frontend_progress": 72,
+    "backend_progress": 81,
+    "database_progress": 90,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_varaprasad"
+    ],
+    "created_at": "2026-11-14T02:25:45.592Z",
+    "updated_at": "2026-11-17T19:33:43.772Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 93,
+  "fields": {
+    "project_code": "AIS-PRJ-51",
+    "name": "Social Media Sentiment Analysis",
+    "description": "Enterprise initiative: Social Media Sentiment Analysis. Assigned to interns engineering team.",
+    "start_date": "2026-11-13",
+    "end_date": "2027-02-11",
+    "status": "In Progress",
+    "priority": "High",
+    "progress": 85,
+    "frontend_progress": 76,
+    "backend_progress": 85,
+    "database_progress": 94,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "AI & Machine Learning",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_gurukiran_m"
+    ],
+    "created_at": "2026-11-14T02:25:45.687Z",
+    "updated_at": "2026-11-17T19:33:43.788Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 94,
+  "fields": {
+    "project_code": "AIS-PRJ-52",
+    "name": "Mini Regional PP42 Project",
+    "description": "Enterprise initiative: Mini Regional PP42 Project. Assigned to interns engineering team.",
+    "start_date": "2026-11-13",
+    "end_date": "2027-01-12",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 89,
+    "frontend_progress": 80,
+    "backend_progress": 89,
+    "database_progress": 99,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Software Solutions",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": [
+      "emp_salil_v_madivala"
+    ],
+    "created_at": "2026-11-14T02:25:45.769Z",
+    "updated_at": "2026-11-17T19:33:43.788Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 95,
+  "fields": {
+    "project_code": "PRJ-095",
+    "name": "Test Project Verification 123",
+    "description": "Testing create project endpoint",
+    "start_date": "2026-11-16",
+    "end_date": "2026-12-16",
+    "status": "Planning",
+    "priority": "Medium",
+    "progress": 2,
+    "frontend_progress": 2,
+    "backend_progress": 0,
+    "database_progress": 4,
+    "latest_progress_report": "",
+    "progress_reported_at": null,
+    "category": "Software Solutions",
+    "project_manager": [
+      "admin"
+    ],
+    "poc": [
+      "deepak"
+    ],
+    "created_at": "2026-11-16T05:09:43.216Z",
+    "updated_at": "2026-11-16T05:09:43.216Z"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 101,
+  "fields": {
+    "project_code": "PRJ-096",
+    "name": "test4",
+    "description": "kfkkfkf",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-23",
+    "status": "In Progress",
+    "priority": "Medium",
+    "progress": 75,
+    "frontend_progress": 90,
+    "backend_progress": 75,
+    "database_progress": 60,
+    "latest_progress_report": "📊 PROGRESS REPORT — test4 (PRJ-096)\nGenerated by POC: Akash\nTimestamp: 18 Nov 2026, 07:06 PM\n--------------------------------------------------\n• Frontend Module:  90% completed\n• Backend Module:   75% completed\n• Database Module:  60% completed\n• Overall Delivery: 75% (In Progress)\n• POC Notes: Milestone sprint 3 completed",
+    "progress_reported_at": "2026-11-18T19:06:57.307Z",
+    "category": "Software Solutions",
+    "project_manager": [
+      "megha"
+    ],
+    "poc": null,
+    "created_at": "2026-11-18T18:52:40.141Z",
+    "updated_at": "2026-11-18T19:06:57.309Z"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1036,
+  "fields": {
+    "project": 95,
+    "employee": [
+      "deepak"
+    ],
+    "role_on_project": "Project Manager"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1340,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1341,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_aakash"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1342,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1343,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_shruthi"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1344,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_ganesh_vallabh_m"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1345,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_rahul_s"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1346,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_omkar_vernekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1347,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_y_charan"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1348,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_lakshmish"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1350,
+  "fields": {
+    "project": 43,
+    "employee": [
+      "emp_swati"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1352,
+  "fields": {
+    "project": 44,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1353,
+  "fields": {
+    "project": 44,
+    "employee": [
+      "emp_arjun_sharma"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1355,
+  "fields": {
+    "project": 44,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1356,
+  "fields": {
+    "project": 44,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1357,
+  "fields": {
+    "project": 44,
+    "employee": [
+      "emp_ramin_naidu"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1359,
+  "fields": {
+    "project": 45,
+    "employee": [
+      "emp_sunni_kumar"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1360,
+  "fields": {
+    "project": 45,
+    "employee": [
+      "emp_spandana_indira_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1361,
+  "fields": {
+    "project": 45,
+    "employee": [
+      "emp_karri_sai_sreekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1363,
+  "fields": {
+    "project": 45,
+    "employee": [
+      "emp_pasupuleti_punith"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1364,
+  "fields": {
+    "project": 45,
+    "employee": [
+      "emp_lekhana"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1365,
+  "fields": {
+    "project": 45,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1366,
+  "fields": {
+    "project": 46,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1369,
+  "fields": {
+    "project": 46,
+    "employee": [
+      "emp_arjun_sharma"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1371,
+  "fields": {
+    "project": 46,
+    "employee": [
+      "emp_darshan_naik"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1372,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_deepak_s_j"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1373,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1374,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_prajyot"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1375,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_pasupuleti_punith"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1376,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_sai_mahanth"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1377,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1378,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1379,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_padmanabh_g_madva"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1380,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_ramin_naidu"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1381,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1382,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_shruthi"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1384,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_lakshmish"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1385,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_nikil_h_e"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1386,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1389,
+  "fields": {
+    "project": 47,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1390,
+  "fields": {
+    "project": 48,
+    "employee": [
+      "emp_neelima_mangala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1391,
+  "fields": {
+    "project": 48,
+    "employee": [
+      "emp_varaprasad"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1392,
+  "fields": {
+    "project": 48,
+    "employee": [
+      "emp_gurukiran_m"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1393,
+  "fields": {
+    "project": 49,
+    "employee": [
+      "emp_neelima_mangala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1394,
+  "fields": {
+    "project": 49,
+    "employee": [
+      "emp_varaprasad"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1397,
+  "fields": {
+    "project": 50,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1399,
+  "fields": {
+    "project": 50,
+    "employee": [
+      "emp_arjun_sharma"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1400,
+  "fields": {
+    "project": 50,
+    "employee": [
+      "emp_vikas_m_bennur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1401,
+  "fields": {
+    "project": 51,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1402,
+  "fields": {
+    "project": 51,
+    "employee": [
+      "emp_deepak_s_j"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1403,
+  "fields": {
+    "project": 51,
+    "employee": [
+      "emp_omkar_vernekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1404,
+  "fields": {
+    "project": 51,
+    "employee": [
+      "emp_rahul_s"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1405,
+  "fields": {
+    "project": 51,
+    "employee": [
+      "emp_sneha_k"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1409,
+  "fields": {
+    "project": 51,
+    "employee": [
+      "emp_sachin_v_sagarnal"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1410,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_arjun_sharma"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1411,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1412,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_y_charan"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1413,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1414,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1416,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1417,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_sudeep_bhulla"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1418,
+  "fields": {
+    "project": 52,
+    "employee": [
+      "emp_ganesh_vallabh_m"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1419,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1420,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_spandana_indira_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1421,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1424,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_pasupuleti_punith"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1425,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_ramin_naidu"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1426,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_karri_sai_sreekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1428,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_rahil_rafeek"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1429,
+  "fields": {
+    "project": 53,
+    "employee": [
+      "emp_vikas_m_bennur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1430,
+  "fields": {
+    "project": 54,
+    "employee": [
+      "emp_lakshmi_e"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1431,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1432,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1433,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_padmanabh_g_madva"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1434,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1435,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_lakshmish"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1436,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1437,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_prajyot"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1438,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_pasupuleti_punith"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1441,
+  "fields": {
+    "project": 55,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1442,
+  "fields": {
+    "project": 56,
+    "employee": [
+      "emp_lekhana"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1443,
+  "fields": {
+    "project": 56,
+    "employee": [
+      "emp_deepak_s_j"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1445,
+  "fields": {
+    "project": 57,
+    "employee": [
+      "emp_lakshmi_e"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1446,
+  "fields": {
+    "project": 57,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1447,
+  "fields": {
+    "project": 57,
+    "employee": [
+      "emp_vikas_m_bennur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1449,
+  "fields": {
+    "project": 57,
+    "employee": [
+      "emp_sachin_v_sagarnal"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1450,
+  "fields": {
+    "project": 58,
+    "employee": [
+      "emp_arjun_sharma"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1451,
+  "fields": {
+    "project": 58,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1452,
+  "fields": {
+    "project": 58,
+    "employee": [
+      "emp_y_charan"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1453,
+  "fields": {
+    "project": 58,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1454,
+  "fields": {
+    "project": 58,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1456,
+  "fields": {
+    "project": 58,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1457,
+  "fields": {
+    "project": 58,
+    "employee": [
+      "emp_sudeep_bhulla"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1458,
+  "fields": {
+    "project": 59,
+    "employee": [
+      "emp_lakshmi_e"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1459,
+  "fields": {
+    "project": 59,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1460,
+  "fields": {
+    "project": 59,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1463,
+  "fields": {
+    "project": 60,
+    "employee": [
+      "emp_lakshmi_e"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1464,
+  "fields": {
+    "project": 60,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1465,
+  "fields": {
+    "project": 60,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1468,
+  "fields": {
+    "project": 61,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1470,
+  "fields": {
+    "project": 61,
+    "employee": [
+      "emp_ramin_naidu"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1472,
+  "fields": {
+    "project": 61,
+    "employee": [
+      "emp_swati"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1473,
+  "fields": {
+    "project": 61,
+    "employee": [
+      "emp_lekhana"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1474,
+  "fields": {
+    "project": 62,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1476,
+  "fields": {
+    "project": 62,
+    "employee": [
+      "emp_ramin_naidu"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1477,
+  "fields": {
+    "project": 63,
+    "employee": [
+      "emp_lekhana"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1481,
+  "fields": {
+    "project": 63,
+    "employee": [
+      "emp_sudeep_bhulla"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1482,
+  "fields": {
+    "project": 64,
+    "employee": [
+      "emp_arjun_sharma"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1483,
+  "fields": {
+    "project": 64,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1484,
+  "fields": {
+    "project": 64,
+    "employee": [
+      "emp_y_charan"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1485,
+  "fields": {
+    "project": 64,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1486,
+  "fields": {
+    "project": 64,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1488,
+  "fields": {
+    "project": 64,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1489,
+  "fields": {
+    "project": 64,
+    "employee": [
+      "emp_sudeep_bhulla"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1493,
+  "fields": {
+    "project": 65,
+    "employee": [
+      "emp_sachin_v_sagarnal"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1497,
+  "fields": {
+    "project": 65,
+    "employee": [
+      "emp_ramin_naidu"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1498,
+  "fields": {
+    "project": 65,
+    "employee": [
+      "emp_vikas_m_bennur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1505,
+  "fields": {
+    "project": 66,
+    "employee": [
+      "emp_sachin_v_sagarnal"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1506,
+  "fields": {
+    "project": 66,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1507,
+  "fields": {
+    "project": 66,
+    "employee": [
+      "emp_omkar_vernekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1508,
+  "fields": {
+    "project": 66,
+    "employee": [
+      "emp_rahul_s"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1509,
+  "fields": {
+    "project": 67,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1510,
+  "fields": {
+    "project": 67,
+    "employee": [
+      "emp_deepak_s_j"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1511,
+  "fields": {
+    "project": 67,
+    "employee": [
+      "emp_omkar_vernekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1512,
+  "fields": {
+    "project": 67,
+    "employee": [
+      "emp_rahul_s"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1517,
+  "fields": {
+    "project": 67,
+    "employee": [
+      "emp_sachin_v_sagarnal"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1518,
+  "fields": {
+    "project": 68,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1519,
+  "fields": {
+    "project": 68,
+    "employee": [
+      "emp_spandana_indira_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1520,
+  "fields": {
+    "project": 68,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1526,
+  "fields": {
+    "project": 68,
+    "employee": [
+      "emp_rahil_rafeek"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1527,
+  "fields": {
+    "project": 68,
+    "employee": [
+      "emp_vikas_m_bennur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1528,
+  "fields": {
+    "project": 69,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1529,
+  "fields": {
+    "project": 69,
+    "employee": [
+      "emp_spandana_indira_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1530,
+  "fields": {
+    "project": 69,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1533,
+  "fields": {
+    "project": 69,
+    "employee": [
+      "emp_pasupuleti_punith"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1534,
+  "fields": {
+    "project": 69,
+    "employee": [
+      "emp_karri_sai_sreekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1536,
+  "fields": {
+    "project": 69,
+    "employee": [
+      "emp_rahil_rafeek"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1537,
+  "fields": {
+    "project": 69,
+    "employee": [
+      "emp_vikas_m_bennur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1538,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1539,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_sunni_kumar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1542,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_omkar_vernekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1543,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_rahul_s"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1544,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_y_charan"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1545,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1546,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_arjun_sharma"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1547,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_darshan_naik"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1548,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_lakshmi_e"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1549,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_dhanvish_s_j"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1550,
+  "fields": {
+    "project": 70,
+    "employee": [
+      "emp_ganesh_vallabh_m"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1552,
+  "fields": {
+    "project": 71,
+    "employee": [
+      "emp_darshan_naik"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1554,
+  "fields": {
+    "project": 71,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1557,
+  "fields": {
+    "project": 71,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1558,
+  "fields": {
+    "project": 72,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1560,
+  "fields": {
+    "project": 72,
+    "employee": [
+      "emp_sudeep_bhulla"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1563,
+  "fields": {
+    "project": 73,
+    "employee": [
+      "emp_darshan_naik"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1564,
+  "fields": {
+    "project": 74,
+    "employee": [
+      "emp_ganesh_vallabh_m"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1566,
+  "fields": {
+    "project": 74,
+    "employee": [
+      "emp_rahul_s"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1567,
+  "fields": {
+    "project": 74,
+    "employee": [
+      "emp_sneha_k"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1572,
+  "fields": {
+    "project": 74,
+    "employee": [
+      "emp_aviraj"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1573,
+  "fields": {
+    "project": 74,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1576,
+  "fields": {
+    "project": 75,
+    "employee": [
+      "emp_sneha_k"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1577,
+  "fields": {
+    "project": 75,
+    "employee": [
+      "emp_karri_sai_sreekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1578,
+  "fields": {
+    "project": 76,
+    "employee": [
+      "emp_darshan_naik"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1579,
+  "fields": {
+    "project": 77,
+    "employee": [
+      "emp_neelima_mangala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1580,
+  "fields": {
+    "project": 77,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1581,
+  "fields": {
+    "project": 77,
+    "employee": [
+      "emp_varaprasad"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1583,
+  "fields": {
+    "project": 78,
+    "employee": [
+      "emp_lakshmish"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1584,
+  "fields": {
+    "project": 78,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1585,
+  "fields": {
+    "project": 78,
+    "employee": [
+      "emp_shruthi"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1586,
+  "fields": {
+    "project": 78,
+    "employee": [
+      "emp_neelima_mangala"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1588,
+  "fields": {
+    "project": 78,
+    "employee": [
+      "emp_varaprasad"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1590,
+  "fields": {
+    "project": 79,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1591,
+  "fields": {
+    "project": 79,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1592,
+  "fields": {
+    "project": 79,
+    "employee": [
+      "emp_shruthi"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1593,
+  "fields": {
+    "project": 79,
+    "employee": [
+      "emp_neelima_mangala"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1594,
+  "fields": {
+    "project": 79,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1595,
+  "fields": {
+    "project": 79,
+    "employee": [
+      "emp_varaprasad"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1596,
+  "fields": {
+    "project": 80,
+    "employee": [
+      "emp_lakshmish"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1597,
+  "fields": {
+    "project": 80,
+    "employee": [
+      "emp_sneha_k"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1598,
+  "fields": {
+    "project": 80,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1599,
+  "fields": {
+    "project": 80,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1601,
+  "fields": {
+    "project": 81,
+    "employee": [
+      "emp_sneha_k"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1602,
+  "fields": {
+    "project": 81,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1603,
+  "fields": {
+    "project": 81,
+    "employee": [
+      "emp_varshini_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1604,
+  "fields": {
+    "project": 82,
+    "employee": [
+      "emp_lekhana"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1605,
+  "fields": {
+    "project": 82,
+    "employee": [
+      "emp_lakshmish"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1606,
+  "fields": {
+    "project": 82,
+    "employee": [
+      "emp_pasupuleti_punith"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1607,
+  "fields": {
+    "project": 82,
+    "employee": [
+      "emp_kushi_kumari"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1608,
+  "fields": {
+    "project": 82,
+    "employee": [
+      "emp_ramin_naidu"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1610,
+  "fields": {
+    "project": 84,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1611,
+  "fields": {
+    "project": 84,
+    "employee": [
+      "emp_sanjana_reddy"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1613,
+  "fields": {
+    "project": 84,
+    "employee": [
+      "emp_nonisa_chilur"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1614,
+  "fields": {
+    "project": 84,
+    "employee": [
+      "emp_ganesh_vallabh_m"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1615,
+  "fields": {
+    "project": 84,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1616,
+  "fields": {
+    "project": 84,
+    "employee": [
+      "emp_pasupuleti_punith"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1618,
+  "fields": {
+    "project": 85,
+    "employee": [
+      "emp_spandana_indira_r"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1619,
+  "fields": {
+    "project": 85,
+    "employee": [
+      "emp_karri_sai_sreekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1621,
+  "fields": {
+    "project": 85,
+    "employee": [
+      "emp_lakshmi_e"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1622,
+  "fields": {
+    "project": 85,
+    "employee": [
+      "emp_y_charan"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1623,
+  "fields": {
+    "project": 85,
+    "employee": [
+      "emp_omkar_vernekar"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1624,
+  "fields": {
+    "project": 85,
+    "employee": [
+      "emp_fathima_zara"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1625,
+  "fields": {
+    "project": 85,
+    "employee": [
+      "emp_rahul_s"
+    ],
+    "role_on_project": "Intern Contributor"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1626,
+  "fields": {
+    "project": 86,
+    "employee": [
+      "emp_kethan_rao_g"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1627,
+  "fields": {
+    "project": 87,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1628,
+  "fields": {
+    "project": 88,
+    "employee": [
+      "emp_swati"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1630,
+  "fields": {
+    "project": 89,
+    "employee": [
+      "emp_pravya_pavithran"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1631,
+  "fields": {
+    "project": 90,
+    "employee": [
+      "emp_lakshmi_e"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1632,
+  "fields": {
+    "project": 91,
+    "employee": [
+      "emp_dhanvish_s_j"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1634,
+  "fields": {
+    "project": 92,
+    "employee": [
+      "emp_varaprasad"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1635,
+  "fields": {
+    "project": 93,
+    "employee": [
+      "emp_gurukiran_m"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.projectmembership",
+  "pk": 1636,
+  "fields": {
+    "project": 94,
+    "employee": [
+      "emp_salil_v_madivala"
+    ],
+    "role_on_project": "Lead Intern"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 7,
+  "fields": {
+    "project": 43,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized connect (AIS-PRJ-01) with 11 squad members.",
+    "timestamp": "2026-11-14T02:25:38.599Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 8,
+  "fields": {
+    "project": 44,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized E 2 E (AIS-PRJ-02) with 7 squad members.",
+    "timestamp": "2026-11-14T02:25:38.750Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 9,
+  "fields": {
+    "project": 45,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized ERP (AIS-PRJ-03) with 7 squad members.",
+    "timestamp": "2026-11-14T02:25:38.905Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 10,
+  "fields": {
+    "project": 46,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized token Project (AIS-PRJ-04) with 6 squad members.",
+    "timestamp": "2026-11-14T02:25:39.036Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 11,
+  "fields": {
+    "project": 47,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Ticket Tokening (AIS-PRJ-05) with 18 squad members.",
+    "timestamp": "2026-11-14T02:25:39.403Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 12,
+  "fields": {
+    "project": 48,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Employee Performance Analytics (AIS-PRJ-06) with 3 squad members.",
+    "timestamp": "2026-11-14T02:25:39.528Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 13,
+  "fields": {
+    "project": 49,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Bug tracking system (AIS-PRJ-07) with 4 squad members.",
+    "timestamp": "2026-11-14T02:25:39.629Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 14,
+  "fields": {
+    "project": 50,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Server Performence Monitoring (AIS-PRJ-08) with 4 squad members.",
+    "timestamp": "2026-11-14T02:25:39.735Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 15,
+  "fields": {
+    "project": 51,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Bug Busters HRMS (AIS-PRJ-09) with 9 squad members.",
+    "timestamp": "2026-11-14T02:25:39.950Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 16,
+  "fields": {
+    "project": 52,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized SAMHUB (AIS-PRJ-10) with 9 squad members.",
+    "timestamp": "2026-11-14T02:25:40.162Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 17,
+  "fields": {
+    "project": 53,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Sam Website (AIS-PRJ-11) with 11 squad members.",
+    "timestamp": "2026-11-14T02:25:40.438Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 18,
+  "fields": {
+    "project": 54,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized AI HR Assistance (AIS-PRJ-12) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:40.501Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 19,
+  "fields": {
+    "project": 55,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Al Weather Prediction (AIS-PRJ-13) with 11 squad members.",
+    "timestamp": "2026-11-14T02:25:40.792Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 20,
+  "fields": {
+    "project": 56,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Bankgaurd (AIS-PRJ-14) with 3 squad members.",
+    "timestamp": "2026-11-14T02:25:40.841Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 21,
+  "fields": {
+    "project": 57,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized AI Finance Advisior with ERP (AIS-PRJ-15) with 5 squad members.",
+    "timestamp": "2026-11-14T02:25:40.910Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 22,
+  "fields": {
+    "project": 58,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Brain AI (AIS-PRJ-16) with 8 squad members.",
+    "timestamp": "2026-11-14T02:25:41.119Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 23,
+  "fields": {
+    "project": 59,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Exam site (AIS-PRJ-17) with 5 squad members.",
+    "timestamp": "2026-11-14T02:25:41.267Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 24,
+  "fields": {
+    "project": 60,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Airlines (AIS-PRJ-18) with 5 squad members.",
+    "timestamp": "2026-11-14T02:25:41.430Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 25,
+  "fields": {
+    "project": 61,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Multi-Agent Workflow (AIS-PRJ-19) with 6 squad members.",
+    "timestamp": "2026-11-14T02:25:41.571Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 26,
+  "fields": {
+    "project": 62,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized E-Invoice System (AIS-PRJ-20) with 3 squad members.",
+    "timestamp": "2026-11-14T02:25:41.662Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 27,
+  "fields": {
+    "project": 63,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized AWS file uploader and PWA (AIS-PRJ-21) with 5 squad members.",
+    "timestamp": "2026-11-14T02:25:41.788Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 28,
+  "fields": {
+    "project": 64,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Task 1 and 2 (AIS-PRJ-22) with 8 squad members.",
+    "timestamp": "2026-11-14T02:25:41.991Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 29,
+  "fields": {
+    "project": 65,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Spam Email Detection (AIS-PRJ-23) with 10 squad members.",
+    "timestamp": "2026-11-14T02:25:42.227Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 30,
+  "fields": {
+    "project": 66,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Task 5 and Task 6 (AIS-PRJ-24) with 9 squad members.",
+    "timestamp": "2026-11-14T02:25:42.454Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 31,
+  "fields": {
+    "project": 67,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized vehicle damage detection (AIS-PRJ-25) with 9 squad members.",
+    "timestamp": "2026-11-14T02:25:42.698Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 32,
+  "fields": {
+    "project": 68,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Facial emotion detection (AIS-PRJ-26) with 10 squad members.",
+    "timestamp": "2026-11-14T02:25:42.882Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 33,
+  "fields": {
+    "project": 69,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Task 3 and Task 4 (AIS-PRJ-27) with 10 squad members.",
+    "timestamp": "2026-11-14T02:25:43.041Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 34,
+  "fields": {
+    "project": 70,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Terminus (AIS-PRJ-28) with 14 squad members.",
+    "timestamp": "2026-11-14T02:25:43.309Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 35,
+  "fields": {
+    "project": 71,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Cybersecurity Threat detection (AIS-PRJ-29) with 6 squad members.",
+    "timestamp": "2026-11-14T02:25:43.437Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 36,
+  "fields": {
+    "project": 72,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized AI Inventary Agent with ERP (AIS-PRJ-30) with 5 squad members.",
+    "timestamp": "2026-11-14T02:25:43.604Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 37,
+  "fields": {
+    "project": 73,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized AI Customer Support Agent (AIS-PRJ-31) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:43.679Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 38,
+  "fields": {
+    "project": 74,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized SSS (AIS-PRJ-32) with 11 squad members.",
+    "timestamp": "2026-11-14T02:25:43.925Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 39,
+  "fields": {
+    "project": 75,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Skill Matrix (AIS-PRJ-33) with 3 squad members.",
+    "timestamp": "2026-11-14T02:25:44.032Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 40,
+  "fields": {
+    "project": 76,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized AI Agent For Academy (AIS-PRJ-34) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:44.085Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 41,
+  "fields": {
+    "project": 77,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Internal Project Dashboard (AIS-PRJ-35) with 4 squad members.",
+    "timestamp": "2026-11-14T02:25:44.185Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 42,
+  "fields": {
+    "project": 78,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Confluence (AIS-PRJ-36) with 7 squad members.",
+    "timestamp": "2026-11-14T02:25:44.350Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 43,
+  "fields": {
+    "project": 79,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Database backup (AIS-PRJ-37) with 6 squad members.",
+    "timestamp": "2026-11-14T02:25:44.511Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 44,
+  "fields": {
+    "project": 80,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Voice Based Email (AIS-PRJ-38) with 5 squad members.",
+    "timestamp": "2026-11-14T02:25:44.659Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 45,
+  "fields": {
+    "project": 81,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Network port (AIS-PRJ-39) with 3 squad members.",
+    "timestamp": "2026-11-14T02:25:44.756Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 46,
+  "fields": {
+    "project": 82,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized VPN (AIS-PRJ-40) with 5 squad members.",
+    "timestamp": "2026-11-14T02:25:44.880Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 47,
+  "fields": {
+    "project": 83,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Finance ledger integrity (AIS-PRJ-41) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:44.924Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 48,
+  "fields": {
+    "project": 84,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Audit (AIS-PRJ-42) with 7 squad members.",
+    "timestamp": "2026-11-14T02:25:45.063Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 49,
+  "fields": {
+    "project": 85,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Calender Change (AIS-PRJ-43) with 9 squad members.",
+    "timestamp": "2026-11-14T02:25:45.223Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 50,
+  "fields": {
+    "project": 86,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Zoom and Asana (AIS-PRJ-44) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:45.261Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 51,
+  "fields": {
+    "project": 87,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized CSAT (AIS-PRJ-45) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:45.303Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 52,
+  "fields": {
+    "project": 88,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized WAF (AIS-PRJ-46) with 2 squad members.",
+    "timestamp": "2026-11-14T02:25:45.355Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 53,
+  "fields": {
+    "project": 89,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized DRP Project (AIS-PRJ-47) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:45.407Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 54,
+  "fields": {
+    "project": 90,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Exam Site (AIS-PRJ-48) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:45.459Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 55,
+  "fields": {
+    "project": 91,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Channel Platform (AIS-PRJ-49) with 3 squad members.",
+    "timestamp": "2026-11-14T02:25:45.567Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 56,
+  "fields": {
+    "project": 92,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Sales prediction with linear regression (AIS-PRJ-50) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:45.656Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 57,
+  "fields": {
+    "project": 93,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Social Media Sentiment Analysis (AIS-PRJ-51) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:45.742Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 58,
+  "fields": {
+    "project": 94,
+    "user_name": "Deepak S J (Project Guide)",
+    "action": "Project Initialized",
+    "details": "Initialized Mini Regional PP42 Project (AIS-PRJ-52) with 1 squad members.",
+    "timestamp": "2026-11-14T02:25:45.815Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 59,
+  "fields": {
+    "project": 95,
+    "user_name": "Project Manager",
+    "action": "Created Project",
+    "details": "Created Test Project Verification 123 (PRJ-095)",
+    "timestamp": "2026-11-16T05:09:43.237Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 66,
+  "fields": {
+    "project": 95,
+    "user_name": "Megha",
+    "action": "Imported Team Roster",
+    "details": "Uploaded 30 team members (30 new, 0 updated) via Excel/CSV.",
+    "timestamp": "2026-11-18T18:40:49.094Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 67,
+  "fields": {
+    "project": 101,
+    "user_name": "Megha",
+    "action": "Created Project",
+    "details": "Created test4 (PRJ-096)",
+    "timestamp": "2026-11-18T18:52:40.290Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 68,
+  "fields": {
+    "project": 101,
+    "user_name": "Akash",
+    "action": "Progress Report Generated",
+    "details": "POC updated module completion: Frontend 90%, Backend 75%, Database 60%. Overall: 75%.",
+    "timestamp": "2026-11-18T19:06:57.317Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 69,
+  "fields": {
+    "project": 74,
+    "user_name": "Aviraj",
+    "action": "Progress Report Generated",
+    "details": "POC updated module completion: Frontend 85%, Backend 90%, Database 75%. Overall: 83%.",
+    "timestamp": "2026-11-18T19:34:29.199Z"
+  }
+},
+{
+  "model": "projects.activitylog",
+  "pk": 70,
+  "fields": {
+    "project": 74,
+    "user_name": "Aviraj",
+    "action": "Progress Report Generated",
+    "details": "POC updated module completion: Frontend 85%, Backend 90%, Database 75%. Overall: 83%.",
+    "timestamp": "2026-11-18T19:34:47.350Z"
+  }
+},
+{
+  "model": "projects.diaryentry",
+  "pk": 1,
+  "fields": {
+    "project": 95,
+    "author": [
+      "deepak"
+    ],
+    "entry_date": "2026-11-17",
+    "done": "Refactored backend authorization checks to rely strictly on request.user sessions.",
+    "in_progress": "Integrating React Hook Form with Zod validation on /diary page.",
+    "next_up": "Perform load testing and cross-browser responsive testing for Confluence table.",
+    "blockers": "",
+    "reviewed_by": [
+      "manager_priya"
+    ],
+    "reviewed_at": "2026-11-17T19:33:43.811Z",
+    "created_at": "2026-11-17T19:33:43.819Z",
+    "updated_at": "2026-11-17T19:33:43.819Z"
+  }
+},
+{
+  "model": "projects.diaryentry",
+  "pk": 2,
+  "fields": {
+    "project": 95,
+    "author": [
+      "deepak"
+    ],
+    "entry_date": "2026-11-18",
+    "done": "Integrating React Hook Form with Zod validation on /diary page.",
+    "in_progress": "Perform load testing and cross-browser responsive testing for Confluence table.",
+    "next_up": "Final staging verification and production build generation.",
+    "blockers": "Awaiting final signoff on branding color shades.",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-11-17T19:33:43.821Z",
+    "updated_at": "2026-11-17T19:33:43.821Z"
+  }
+}
+]

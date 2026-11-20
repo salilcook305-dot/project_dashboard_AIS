@@ -1,0 +1,16 @@
+from django.contrib import admin
+from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
+from .models import User
+
+
+@admin.register(User)
+class UserAdmin(BaseUserAdmin):
+    fieldsets = BaseUserAdmin.fieldsets + (
+        ('Company Role & Details', {'fields': ('role', 'job_title', 'department')}),
+    )
+    add_fieldsets = BaseUserAdmin.add_fieldsets + (
+        ('Company Role & Details', {'fields': ('role', 'job_title', 'department')}),
+    )
+    list_display = ('username', 'email', 'first_name', 'last_name', 'role', 'job_title', 'department', 'is_staff')
+    list_filter = ('role', 'is_staff', 'is_superuser', 'department')
+    search_fields = ('username', 'first_name', 'last_name', 'email', 'job_title', 'department')
